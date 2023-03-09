@@ -12,7 +12,7 @@ async function getHome(req, res, next) {
         const greetingMessage = await getHelloWorldService(msg);
         res.status(200).send(greetingMessage);
     } catch (error) {
-        next(DEVMODE ? error.message : 'Ops, Something wrong during singing up process');
+        next(DEVMODE ? error.message : 'Ops, Something wrong happened :( ');
     }
 }
 

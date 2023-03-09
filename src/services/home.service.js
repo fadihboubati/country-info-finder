@@ -9,7 +9,7 @@ async function getHelloWorldService(msg) {
         let str = msg;
         return str;
     } catch (error) {
-        throw new Error(DEVMODE ? error.message : 'Ops, Something wrong during singing up process');
+        throw new Error(DEVMODE ? error.message : 'Ops, Something wrong happened :( ');
     }
 
 }

@@ -96,15 +96,98 @@ async function getDataService(apiUrl, officialName, cca2, cca3, ccn3) {
         return countries;
 
     } catch (error) {
-        throw new Error(DEVMODE ? error.message : 'Ops, Something wrong during singing up process');
+        throw new Error(DEVMODE ? error.message : 'Ops, Something wrong happened :( ');
     }
 }
 
+async function getCountryCurrenciesByCCA2Service(cca2) {
+
+    try {
+        const country = await prisma.country.findUnique({
+            where: {
+                cca2,
+            },
+            include: {
+                currencies: true
+            }
+        });
+        return country.currencies;
+    } catch (error) {
+        throw new Error(DEVMODE ? error.message : 'Ops, Something wrong happened :(');
+    }
+
+}
+
+async function groupCountriesByRegion() {
+    const countriesByRegion = await prisma.country.groupBy({
+        by: ["region"],
+        orderBy: {
+            region: "asc",
+        },
+        _count: {
+            name: "count",
+        },
+    });
+    return countriesByRegion;
+    // [
+    //     { region: 'Africa', count: 56 },
+    //     { region: 'Americas', count: 35 },
+    //     { region: 'Asia', count: 50 },
+    //     { region: 'Europe', count: 53 },
+    //     { region: 'Oceania', count: 28 }
+    // ]
+}
+
+async function groupCountriesByLanguage() {
+    const countriesByLanguage = await prisma.language.groupBy({
+        by: ["name"],
+        orderBy: {
+            name: "asc",
+        },
+        _count: {
+            name: "count",
+        },
+        countries: {
+            select: {
+                name: true,
+                cca2: true,
+                region: true,
+            },
+        },
+    });
+
+    return countriesByLanguage;
+
+
+    // [
+    //     {
+    //         name: 'Afrikaans',
+    //         count: 1,
+    //         countries: [{ name: 'South Africa', cca2: 'ZA', region: 'Africa' }]
+    //     },
+    //     {
+    //         name: 'Albanian',
+    //         count: 1,
+    //         countries: [{ name: 'Albania', cca2: 'AL', region: 'Europe' }]
+    //     },
+    //     // more language groups...
+    // ]
+
+}
+
+
+
 module.exports = {
     getDataService,
+    getCountryCurrenciesByCCA2Service,
+    groupCountriesByRegion,
+    groupCountriesByLanguage,
 };
 
 
+
+
+// Old Codes
 // async function getDataServiceXXX(apiUrl, name, cca2, cca3, ccn3) {
 //     try {
 //         let countries = [];
@@ -200,10 +283,6 @@ module.exports = {
 //         throw new Error(DEVMODE ? error.message : 'Ops, Something wrong during singing up process');
 //     }
 // }
-
-// module.exports = {
-//     getDataService,
-// };
 
 
 

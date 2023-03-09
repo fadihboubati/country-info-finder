@@ -20,7 +20,7 @@ async function getApiData(req, res, next) {
 
         res.status(200).send(data);
     } catch (error) {
-        next(DEVMODE ? error.message : 'Ops, Something wrong during singing up process');
+        next(DEVMODE ? error.message : 'Ops, Something wrong happened :( ');
     }
 }
 
