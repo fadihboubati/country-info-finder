@@ -124,7 +124,32 @@ async function groupCountriesByRegionService() {
             by: ['name', 'region'],
             orderBy: [{ region: 'asc' }],
         });
-        return countriesByRegion;
+
+        const groupedCountries = countriesByRegion.reduce((acc, country) => {
+
+            // Get the region property of the current country
+            const region = country.region;
+
+            // Find the index of the group in the acc array that matches the current country's region 
+            const index = acc.findIndex(group => group.region === region);
+
+            // If a matching group is found,
+            // add the current country's name to that group's countries array:
+            if (index !== -1) {
+                acc[index].countries.push(country.name);
+
+            }
+            // If a matching group is not found,
+            // create a new group object with the current country's region and name properties and push it to the acc array:
+            else {
+                acc.push({ region: region, countries: [country.name] });
+            }
+
+            // return the updated acc array
+            return acc;
+        }, []);
+
+        return groupedCountries;
 
     } catch (error) {
         throw new Error(DEVMODE ? error.message : 'Ops, Something wrong happened :(');
@@ -138,8 +163,8 @@ async function groupCountriesByLanguageService() {
                 name: true,
                 languages: true,
             },
+            orderBy: [{ name: 'asc' }],
         });
-
         return countriesByLanguages;
 
     } catch (error) {

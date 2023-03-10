@@ -9,8 +9,8 @@ const authMiddleware = require('../middlewares/auth.middleware');
 
 router.get('/countries', getCountries);
 router.get('/countries/:cca2/currencies', getCountryCurrenciesByCCA2);
-router.get('/countries/groupedByRegion', groupCountriesByRegion);
-router.get('/countries/groupedByLanguage', groupCountriesByLanguage);
+router.get('/countries/grouped/by-region', groupCountriesByRegion);
+router.get('/countries/grouped/by-language', groupCountriesByLanguage);
 router.get('/countries/save', saveCountriesToJSON);
 router.get('/countries/download-json', authMiddleware, downloadJsonFile);
 
