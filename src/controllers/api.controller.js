@@ -5,19 +5,13 @@ const DEVMODE = process.env.DEVMODE;
 const { getCountriesService, getCountryCurrenciesByCCA2Service, groupCountriesByRegionService, groupCountriesByLanguageService } = require('../services/api.service');
 const { binaryToUrl } = require('../utils/binaryToUrl');
 
-
 const apiBinary = process.env.API_BINARY;
 const apiUrl = binaryToUrl(apiBinary);
 
-
 async function getCountries(req, res, next) {
     try {
-        // http://localhost:3030?name=Germany&cca2=DE&cca3=DEU&ccn3=276
-
-        // name: officialName
-        const { name, cca2, cca3, ccn3 } = req.query;
+        const { name, cca2, cca3, ccn3 } = req.query; // name: officialName
         const data = await getCountriesService(apiUrl, name, cca2, cca3, ccn3);
-
         res.status(200).send(data);
     } catch (error) {
         next(DEVMODE ? error.message : 'Ops, Something wrong happened :( ');
@@ -39,11 +33,9 @@ async function groupCountriesByRegion(req, res, next) {
         const data = await groupCountriesByRegionService();
         res.status(200).send(data);
     } catch (error) {
-        // throw new Error(DEVMODE ? error.message : 'Ops, Something wrong happened :(');
         next(DEVMODE ? error.message : 'Ops, Something wrong happened :( ');
     }
 }
-
 
 async function groupCountriesByLanguage(req, res, next) {
     try {
@@ -72,9 +64,7 @@ async function saveCountriesToJSON(req, res, next) {
     }
 }
 
-
 function downloadJsonFile(req, res, next) {
-
     try {
         const filePath = './assets/countries.json';
         const fileName = 'file.json';
@@ -88,7 +78,6 @@ function downloadJsonFile(req, res, next) {
     } catch (error) {
         next(DEVMODE ? error.message : 'Ops, Something wrong happened :( ');
     }
-
 }
 
 module.exports = {
