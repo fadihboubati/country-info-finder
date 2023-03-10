@@ -1,0 +1,7166 @@
+[
+  {
+    "id": "59906717-b52b-4b35-944a-fb0717e24ca8",
+    "name": "Antarctica",
+    "cca2": "AQ",
+    "cca3": "ATA",
+    "ccn3": 10,
+    "region": "Antarctic",
+    "latitude": -90,
+    "longitude": 0,
+    "languages": [],
+    "currencies": []
+  },
+  {
+    "id": "2f7a55ee-5e21-4719-adef-9a224f04c12a",
+    "name": "Bouvet Island",
+    "cca2": "BV",
+    "cca3": "BVT",
+    "ccn3": 74,
+    "region": "Antarctic",
+    "latitude": 54.4208,
+    "longitude": 3.3464,
+    "languages": [
+      {
+        "id": 3707,
+        "name": "Norwegian",
+        "isoCode": "nor"
+      }
+    ],
+    "currencies": []
+  },
+  {
+    "id": "00789edc-e67c-4b6c-ab01-3a673562d873",
+    "name": "Heard Island and McDonald Islands",
+    "cca2": "HM",
+    "cca3": "HMD",
+    "ccn3": 334,
+    "region": "Antarctic",
+    "latitude": 53.0818,
+    "longitude": 73.5042,
+    "languages": [
+      {
+        "id": 3800,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": []
+  },
+  {
+    "id": "0d733142-7b78-44f2-a788-620dba349154",
+    "name": "Tunisian Republic",
+    "cca2": "TN",
+    "cca3": "TUN",
+    "ccn3": 788,
+    "region": "Africa",
+    "latitude": 34,
+    "longitude": 9,
+    "languages": [
+      {
+        "id": 3693,
+        "name": "Arabic",
+        "isoCode": "ara"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "97c9c3d0-63fe-46d7-8293-8b74d147f0b1",
+        "code": "TND",
+        "name": "Tunisian dinar",
+        "symbol": "د.ت"
+      }
+    ]
+  },
+  {
+    "id": "2802673c-18a1-4479-9662-09992a1c7f38",
+    "name": "Kyrgyz Republic",
+    "cca2": "KG",
+    "cca3": "KGZ",
+    "ccn3": 417,
+    "region": "Asia",
+    "latitude": 41,
+    "longitude": 75,
+    "languages": [
+      {
+        "id": 3698,
+        "name": "Russian",
+        "isoCode": "rus"
+      },
+      {
+        "id": 3699,
+        "name": "Kyrgyz",
+        "isoCode": "kir"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "1af44ee3-82b2-4bc2-aeff-c2bc6c0b2be1",
+        "code": "KGS",
+        "name": "Kyrgyzstani som",
+        "symbol": "с"
+      }
+    ]
+  },
+  {
+    "id": "33fae258-c246-4684-ae6f-b4ba4c6e9db3",
+    "name": "Republic of Yemen",
+    "cca2": "YE",
+    "cca3": "YEM",
+    "ccn3": 887,
+    "region": "Asia",
+    "latitude": 15,
+    "longitude": 48,
+    "languages": [
+      {
+        "id": 3694,
+        "name": "Arabic",
+        "isoCode": "ara"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "f71af32f-4545-44fe-a25c-e2ee29bb6693",
+        "code": "YER",
+        "name": "Yemeni rial",
+        "symbol": "﷼"
+      }
+    ]
+  },
+  {
+    "id": "b93212f3-4fe9-40b3-9eff-217d8bd34956",
+    "name": "Falkland Islands",
+    "cca2": "FK",
+    "cca3": "FLK",
+    "ccn3": 238,
+    "region": "Americas",
+    "latitude": -51.75,
+    "longitude": -59,
+    "languages": [
+      {
+        "id": 3695,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "fadeac0a-7d06-4b8c-ac89-c9aacab3a73f",
+        "code": "FKP",
+        "name": "Falkland Islands pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "id": "6ad6b7af-7f80-4054-886f-0a18e6428040",
+    "name": "State of Israel",
+    "cca2": "IL",
+    "cca3": "ISR",
+    "ccn3": 376,
+    "region": "Asia",
+    "latitude": 31.47,
+    "longitude": 35.13,
+    "languages": [
+      {
+        "id": 3696,
+        "name": "Hebrew",
+        "isoCode": "heb"
+      },
+      {
+        "id": 3697,
+        "name": "Arabic",
+        "isoCode": "ara"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "c508972b-a97c-4690-862f-46bff94d8dd3",
+        "code": "ILS",
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      }
+    ]
+  },
+  {
+    "id": "422cd2de-ed57-4b13-b85b-96d8a3f4d038",
+    "name": "Kingdom of Spain",
+    "cca2": "ES",
+    "cca3": "ESP",
+    "ccn3": 724,
+    "region": "Europe",
+    "latitude": 40,
+    "longitude": -4,
+    "languages": [
+      {
+        "id": 3700,
+        "name": "Spanish",
+        "isoCode": "spa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "2e7990dd-9906-48df-bff4-8b719512863c",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "2553538a-75a5-40c3-8c57-6197aefee1eb",
+    "name": "Virgin Islands",
+    "cca2": "VG",
+    "cca3": "VGB",
+    "ccn3": 92,
+    "region": "Americas",
+    "latitude": 18.431383,
+    "longitude": -64.62305,
+    "languages": [
+      {
+        "id": 3701,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "10d06081-0225-4f39-9f42-2c4fe35934fd",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "043f1385-a503-4aec-a433-bf61715c822f",
+    "name": "Montenegro",
+    "cca2": "ME",
+    "cca3": "MNE",
+    "ccn3": 499,
+    "region": "Europe",
+    "latitude": 42.5,
+    "longitude": 19.3,
+    "languages": [
+      {
+        "id": 3702,
+        "name": "Montenegrin",
+        "isoCode": "cnr"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "924266aa-0d59-4bab-9463-41e2bb5b9374",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "7011596d-9d05-472e-a85c-1a6ebb33e7b0",
+    "name": "Federal Democratic Republic of Nepal",
+    "cca2": "NP",
+    "cca3": "NPL",
+    "ccn3": 524,
+    "region": "Asia",
+    "latitude": 28,
+    "longitude": 84,
+    "languages": [
+      {
+        "id": 3706,
+        "name": "Nepali",
+        "isoCode": "nep"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "0e346800-d229-41a6-973d-c445edf2c6b7",
+        "code": "NPR",
+        "name": "Nepalese rupee",
+        "symbol": "₨"
+      }
+    ]
+  },
+  {
+    "id": "516e5dcc-3019-4b42-9809-7a4f0d872e38",
+    "name": "Republic of Indonesia",
+    "cca2": "ID",
+    "cca3": "IDN",
+    "ccn3": 360,
+    "region": "Asia",
+    "latitude": -5,
+    "longitude": 120,
+    "languages": [
+      {
+        "id": 3704,
+        "name": "Indonesian",
+        "isoCode": "ind"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "d5f4e774-c0d1-4f4a-9884-7d9fb5043dce",
+        "code": "IDR",
+        "name": "Indonesian rupiah",
+        "symbol": "Rp"
+      }
+    ]
+  },
+  {
+    "id": "f1b203a5-76f0-4fe8-9f9c-9d5d644593d2",
+    "name": "Republic of Rwanda",
+    "cca2": "RW",
+    "cca3": "RWA",
+    "ccn3": 646,
+    "region": "Africa",
+    "latitude": -2,
+    "longitude": 30,
+    "languages": [
+      {
+        "id": 3703,
+        "name": "Kinyarwanda",
+        "isoCode": "kin"
+      },
+      {
+        "id": 3708,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3710,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "5583c0d1-86bd-4d2e-8407-be2c626bf011",
+        "code": "RWF",
+        "name": "Rwandan franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "0f2f5eca-efb2-456a-82d8-a7b0d9b7561a",
+    "name": "Republic of Cameroon",
+    "cca2": "CM",
+    "cca3": "CMR",
+    "ccn3": 120,
+    "region": "Africa",
+    "latitude": 6,
+    "longitude": 12,
+    "languages": [
+      {
+        "id": 3705,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3711,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "284f2eaf-266b-4d28-92cc-9e2911c1f54c",
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "8f49bf20-120a-4b6d-9b98-77e6b021190e",
+    "name": "Republic of Nicaragua",
+    "cca2": "NI",
+    "cca3": "NIC",
+    "ccn3": 558,
+    "region": "Americas",
+    "latitude": 13,
+    "longitude": -85,
+    "languages": [
+      {
+        "id": 3712,
+        "name": "Spanish",
+        "isoCode": "spa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "7e0164b3-e1d6-4d88-9988-ae744349efbb",
+        "code": "NIO",
+        "name": "Nicaraguan córdoba",
+        "symbol": "C$"
+      }
+    ]
+  },
+  {
+    "id": "6c941d00-54e3-4b89-a46d-5cc16b2a3dc5",
+    "name": "Kingdom of Denmark",
+    "cca2": "DK",
+    "cca3": "DNK",
+    "ccn3": 208,
+    "region": "Europe",
+    "latitude": 56,
+    "longitude": 10,
+    "languages": [
+      {
+        "id": 3709,
+        "name": "Danish",
+        "isoCode": "dan"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "991f863f-386f-4992-ae75-294256f5ced9",
+        "code": "DKK",
+        "name": "Danish krone",
+        "symbol": "kr"
+      }
+    ]
+  },
+  {
+    "id": "97a14b0b-1dac-4faf-af7c-1509aa6b9d3b",
+    "name": "Independent and Sovereign Republic of Kiribati",
+    "cca2": "KI",
+    "cca3": "KIR",
+    "ccn3": 296,
+    "region": "Oceania",
+    "latitude": 1.41666666,
+    "longitude": 173,
+    "languages": [
+      {
+        "id": 3715,
+        "name": "Gilbertese",
+        "isoCode": "gil"
+      },
+      {
+        "id": 3716,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "faf90479-3999-4f77-909a-994129286af5",
+        "code": "KID",
+        "name": "Kiribati dollar",
+        "symbol": "$"
+      },
+      {
+        "id": "be11fe96-4484-4546-a96b-864ba6ee7a50",
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "e74609f6-ad1d-453d-b0f1-9631da68eb6f",
+    "name": "Republic of El Salvador",
+    "cca2": "SV",
+    "cca3": "SLV",
+    "ccn3": 222,
+    "region": "Americas",
+    "latitude": 13.83333333,
+    "longitude": -88.91666666,
+    "languages": [
+      {
+        "id": 3713,
+        "name": "Spanish",
+        "isoCode": "spa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "8af73646-7395-4b44-8a9a-645691d66e60",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "98c21041-da36-4bee-8d0b-d18b5cccc698",
+    "name": "Commonwealth of Australia",
+    "cca2": "AU",
+    "cca3": "AUS",
+    "ccn3": 36,
+    "region": "Oceania",
+    "latitude": -27,
+    "longitude": 133,
+    "languages": [
+      {
+        "id": 3714,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "37d24338-e8f6-4e2c-a95e-f2045ea73f94",
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "150d3ca1-c7ee-4c63-a7b3-f6ed930f55c6",
+    "name": "Réunion Island",
+    "cca2": "RE",
+    "cca3": "REU",
+    "ccn3": 638,
+    "region": "Africa",
+    "latitude": -21.15,
+    "longitude": 55.5,
+    "languages": [
+      {
+        "id": 3717,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "8a62abc3-322c-4726-9b32-66d2c4938429",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "ce30dc50-6c39-4e44-8f25-38b9a99a1c7c",
+    "name": "South Georgia and the South Sandwich Islands",
+    "cca2": "GS",
+    "cca3": "SGS",
+    "ccn3": 239,
+    "region": "Antarctic",
+    "latitude": -54.5,
+    "longitude": -37,
+    "languages": [
+      {
+        "id": 3719,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "44d25a7f-e53d-4328-8f26-d5e0217b5f9e",
+        "code": "SHP",
+        "name": "Saint Helena pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "id": "bc31dd55-300b-45d5-b603-641c5cf4b385",
+    "name": "Territory of the French Southern and Antarctic Lands",
+    "cca2": "TF",
+    "cca3": "ATF",
+    "ccn3": 260,
+    "region": "Antarctic",
+    "latitude": -49.25,
+    "longitude": 69.167,
+    "languages": [
+      {
+        "id": 3722,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "90c20b25-aac6-4c26-ae52-10cd133cf07c",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "0b52ab6e-ae15-46c3-ac25-6690c615c8fc",
+    "name": "Guam",
+    "cca2": "GU",
+    "cca3": "GUM",
+    "ccn3": 316,
+    "region": "Oceania",
+    "latitude": 13.46666666,
+    "longitude": 144.78333333,
+    "languages": [
+      {
+        "id": 3718,
+        "name": "Chamorro",
+        "isoCode": "cha"
+      },
+      {
+        "id": 3720,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3727,
+        "name": "Spanish",
+        "isoCode": "spa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "414de3b0-9dc2-4cc0-8c64-81ed14445c06",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "6cbf7892-c89b-4e4c-b0e3-295eaacce79e",
+    "name": "Macao Special Administrative Region of the People's Republic of China",
+    "cca2": "MO",
+    "cca3": "MAC",
+    "ccn3": 446,
+    "region": "Asia",
+    "latitude": 22.16666666,
+    "longitude": 113.55,
+    "languages": [
+      {
+        "id": 3721,
+        "name": "Portuguese",
+        "isoCode": "por"
+      },
+      {
+        "id": 3726,
+        "name": "Chinese",
+        "isoCode": "zho"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "7abbfbbb-3957-49bb-9893-da4fbf799860",
+        "code": "MOP",
+        "name": "Macanese pataca",
+        "symbol": "P"
+      }
+    ]
+  },
+  {
+    "id": "a327cd25-8abf-4dbc-8ddf-67d1b8b9dc2a",
+    "name": "Republic of Iraq",
+    "cca2": "IQ",
+    "cca3": "IRQ",
+    "ccn3": 368,
+    "region": "Asia",
+    "latitude": 33,
+    "longitude": 44,
+    "languages": [
+      {
+        "id": 3723,
+        "name": "Sorani",
+        "isoCode": "ckb"
+      },
+      {
+        "id": 3725,
+        "name": "Aramaic",
+        "isoCode": "arc"
+      },
+      {
+        "id": 3728,
+        "name": "Arabic",
+        "isoCode": "ara"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "dd3e7dfa-35d4-4f7c-8db2-6a6128b6449d",
+        "code": "IQD",
+        "name": "Iraqi dinar",
+        "symbol": "ع.د"
+      }
+    ]
+  },
+  {
+    "id": "ef42a067-aa4e-4c2d-9275-1a2fb5b5f5f1",
+    "name": "Syrian Arab Republic",
+    "cca2": "SY",
+    "cca3": "SYR",
+    "ccn3": 760,
+    "region": "Asia",
+    "latitude": 35,
+    "longitude": 38,
+    "languages": [
+      {
+        "id": 3724,
+        "name": "Arabic",
+        "isoCode": "ara"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "748f6d3f-afc4-4121-8881-7bc69ac2400f",
+        "code": "SYP",
+        "name": "Syrian pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "id": "49f8f75b-10b6-4811-abc2-2f04329c7518",
+    "name": "Republic of Albania",
+    "cca2": "AL",
+    "cca3": "ALB",
+    "ccn3": 8,
+    "region": "Europe",
+    "latitude": 41,
+    "longitude": 20,
+    "languages": [
+      {
+        "id": 3730,
+        "name": "Albanian",
+        "isoCode": "sqi"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "536cccbb-b756-47f6-bdb2-b8d757855ea8",
+        "code": "ALL",
+        "name": "Albanian lek",
+        "symbol": "L"
+      }
+    ]
+  },
+  {
+    "id": "18fe891e-9e6e-4658-ac35-365fe1dec67e",
+    "name": "Republic of Uzbekistan",
+    "cca2": "UZ",
+    "cca3": "UZB",
+    "ccn3": 860,
+    "region": "Asia",
+    "latitude": 41,
+    "longitude": 64,
+    "languages": [
+      {
+        "id": 3729,
+        "name": "Russian",
+        "isoCode": "rus"
+      },
+      {
+        "id": 3735,
+        "name": "Uzbek",
+        "isoCode": "uzb"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "f563cbe6-6840-4888-906a-0f998b7a514b",
+        "code": "UZS",
+        "name": "Uzbekistani soʻm",
+        "symbol": "so'm"
+      }
+    ]
+  },
+  {
+    "id": "7ebbada3-d021-49cd-86c0-e3480efb1946",
+    "name": "Commonwealth of the Northern Mariana Islands",
+    "cca2": "MP",
+    "cca3": "MNP",
+    "ccn3": 580,
+    "region": "Oceania",
+    "latitude": 15.2,
+    "longitude": 145.75,
+    "languages": [
+      {
+        "id": 3731,
+        "name": "Carolinian",
+        "isoCode": "cal"
+      },
+      {
+        "id": 3732,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3736,
+        "name": "Chamorro",
+        "isoCode": "cha"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "d2377e10-2d8c-4a9d-b45a-b2dbc155e80b",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "add21512-b683-44e5-b936-f14f4ff99ea5",
+    "name": "State of Palestine",
+    "cca2": "PS",
+    "cca3": "PSE",
+    "ccn3": 275,
+    "region": "Asia",
+    "latitude": 31.9,
+    "longitude": 35.2,
+    "languages": [
+      {
+        "id": 3734,
+        "name": "Arabic",
+        "isoCode": "ara"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "5560c69d-c94a-49d0-ba2a-c9bb342db193",
+        "code": "EGP",
+        "name": "Egyptian pound",
+        "symbol": "E£"
+      },
+      {
+        "id": "a8ced927-6b4f-401c-8e26-d1e98a74ee0f",
+        "code": "ILS",
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      },
+      {
+        "id": "35070f78-7e86-4be3-92d9-9829a5baa247",
+        "code": "JOD",
+        "name": "Jordanian dinar",
+        "symbol": "JD"
+      }
+    ]
+  },
+  {
+    "id": "833916ff-41e3-45e5-a984-4718a0aed8c9",
+    "name": "Republic of Austria",
+    "cca2": "AT",
+    "cca3": "AUT",
+    "ccn3": 40,
+    "region": "Europe",
+    "latitude": 47.33333333,
+    "longitude": 13.33333333,
+    "languages": [
+      {
+        "id": 3739,
+        "name": "Austro-Bavarian German",
+        "isoCode": "bar"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "1c8ace9f-927e-4009-8214-7939235f7632",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "2fc8d78a-87d5-4e8b-a901-54349546c66f",
+    "name": "British Indian Ocean Territory",
+    "cca2": "IO",
+    "cca3": "IOT",
+    "ccn3": 86,
+    "region": "Africa",
+    "latitude": -6,
+    "longitude": 71.5,
+    "languages": [
+      {
+        "id": 3756,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "e9f20255-9332-4e37-aaf7-c9007ea8c66e",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "e154fe6a-93ac-4f3b-aa95-01adc42d3795",
+    "name": "Republic of Guatemala",
+    "cca2": "GT",
+    "cca3": "GTM",
+    "ccn3": 320,
+    "region": "Americas",
+    "latitude": 15.5,
+    "longitude": -90.25,
+    "languages": [
+      {
+        "id": 3752,
+        "name": "Spanish",
+        "isoCode": "spa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "7d490402-007a-4923-8f7c-9a3f8a8f1f58",
+        "code": "GTQ",
+        "name": "Guatemalan quetzal",
+        "symbol": "Q"
+      }
+    ]
+  },
+  {
+    "id": "b75bc639-5d92-4d81-9db2-6ea0b6335821",
+    "name": "Republic of India",
+    "cca2": "IN",
+    "cca3": "IND",
+    "ccn3": 356,
+    "region": "Asia",
+    "latitude": 20,
+    "longitude": 77,
+    "languages": [
+      {
+        "id": 3755,
+        "name": "Hindi",
+        "isoCode": "hin"
+      },
+      {
+        "id": 3757,
+        "name": "Tamil",
+        "isoCode": "tam"
+      },
+      {
+        "id": 3758,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "9457ec66-85e7-496e-a59b-2eddad09ade1",
+        "code": "INR",
+        "name": "Indian rupee",
+        "symbol": "₹"
+      }
+    ]
+  },
+  {
+    "id": "06b1c874-3f98-45ca-9073-51e822c2ebae",
+    "name": "Kingdom of Morocco",
+    "cca2": "MA",
+    "cca3": "MAR",
+    "ccn3": 504,
+    "region": "Africa",
+    "latitude": 32,
+    "longitude": -5,
+    "languages": [
+      {
+        "id": 3750,
+        "name": "Berber",
+        "isoCode": "ber"
+      },
+      {
+        "id": 3753,
+        "name": "Arabic",
+        "isoCode": "ara"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "034e8cda-2262-4ad0-8266-127ccdd09f8d",
+        "code": "MAD",
+        "name": "Moroccan dirham",
+        "symbol": "د.م."
+      }
+    ]
+  },
+  {
+    "id": "a9ed9d8b-82e2-4b1a-81fc-ab39d5a87b8f",
+    "name": "Kingdom of Saudi Arabia",
+    "cca2": "SA",
+    "cca3": "SAU",
+    "ccn3": 682,
+    "region": "Asia",
+    "latitude": 25,
+    "longitude": 45,
+    "languages": [
+      {
+        "id": 3760,
+        "name": "Arabic",
+        "isoCode": "ara"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "5ef5f24c-43a3-4f2c-b698-3f9dbd38a5cc",
+        "code": "SAR",
+        "name": "Saudi riyal",
+        "symbol": "ر.س"
+      }
+    ]
+  },
+  {
+    "id": "1cfa0c5b-6f2d-4b5e-a125-dac69f28a241",
+    "name": "Republic of Zimbabwe",
+    "cca2": "ZW",
+    "cca3": "ZWE",
+    "ccn3": 716,
+    "region": "Africa",
+    "latitude": -20,
+    "longitude": 30,
+    "languages": [
+      {
+        "id": 3733,
+        "name": "Chibarwe",
+        "isoCode": "bwg"
+      },
+      {
+        "id": 3737,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3738,
+        "name": "Kalanga",
+        "isoCode": "kck"
+      },
+      {
+        "id": 3740,
+        "name": "Northern Ndebele",
+        "isoCode": "nde"
+      },
+      {
+        "id": 3741,
+        "name": "Chewa",
+        "isoCode": "nya"
+      },
+      {
+        "id": 3742,
+        "name": "Khoisan",
+        "isoCode": "khi"
+      },
+      {
+        "id": 3743,
+        "name": "Ndau",
+        "isoCode": "ndc"
+      },
+      {
+        "id": 3744,
+        "name": "Sotho",
+        "isoCode": "sot"
+      },
+      {
+        "id": 3745,
+        "name": "Tswana",
+        "isoCode": "tsn"
+      },
+      {
+        "id": 3746,
+        "name": "Tonga",
+        "isoCode": "toi"
+      },
+      {
+        "id": 3747,
+        "name": "Venda",
+        "isoCode": "ven"
+      },
+      {
+        "id": 3748,
+        "name": "Shona",
+        "isoCode": "sna"
+      },
+      {
+        "id": 3749,
+        "name": "Tsonga",
+        "isoCode": "tso"
+      },
+      {
+        "id": 3751,
+        "name": "Xhosa",
+        "isoCode": "xho"
+      },
+      {
+        "id": 3754,
+        "name": "Zimbabwean Sign Language",
+        "isoCode": "zib"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "974723e5-c637-41d9-ae71-fd5fea36f4ce",
+        "code": "ZWL",
+        "name": "Zimbabwean dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "855d3ef4-0d9f-4129-9fa0-a223c370b879",
+    "name": "Principality of Andorra",
+    "cca2": "AD",
+    "cca3": "AND",
+    "ccn3": 20,
+    "region": "Europe",
+    "latitude": 42.5,
+    "longitude": 1.5,
+    "languages": [
+      {
+        "id": 3763,
+        "name": "Catalan",
+        "isoCode": "cat"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "45d21a78-d450-40c4-8cdc-ca8594784edb",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "5237bbad-7377-4d0d-a11c-63cb4dc911d8",
+    "name": "Commonwealth of the Bahamas",
+    "cca2": "BS",
+    "cca3": "BHS",
+    "ccn3": 44,
+    "region": "Americas",
+    "latitude": 25.0343,
+    "longitude": 77.3963,
+    "languages": [
+      {
+        "id": 3759,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "d82a67b4-f4f1-4a76-ad13-d8d7fcf017aa",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      },
+      {
+        "id": "8b38a4f5-3f13-422f-a2f6-59a690814068",
+        "code": "BSD",
+        "name": "Bahamian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "a4ec6085-a1c8-4ed1-9796-528382defa85",
+    "name": "Republic of the Marshall Islands",
+    "cca2": "MH",
+    "cca3": "MHL",
+    "ccn3": 584,
+    "region": "Oceania",
+    "latitude": 9,
+    "longitude": 168,
+    "languages": [
+      {
+        "id": 3762,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3764,
+        "name": "Marshallese",
+        "isoCode": "mah"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "2a48209c-5723-4153-b233-f0062a46899e",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "c7829f19-dbee-47e0-a33e-1a66b540e324",
+    "name": "Guiana",
+    "cca2": "GF",
+    "cca3": "GUF",
+    "ccn3": 254,
+    "region": "Americas",
+    "latitude": 4,
+    "longitude": -53,
+    "languages": [
+      {
+        "id": 3761,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "e21f1595-4dc1-41fa-9c0a-034044de56f6",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "e706462e-0672-4f7b-a39d-b79af653136d",
+    "name": "Republic of Moldova",
+    "cca2": "MD",
+    "cca3": "MDA",
+    "ccn3": 498,
+    "region": "Europe",
+    "latitude": 47,
+    "longitude": 29,
+    "languages": [
+      {
+        "id": 3770,
+        "name": "Romanian",
+        "isoCode": "ron"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "65eb9fb1-14fe-43f8-948e-80f7ec35d14a",
+        "code": "MDL",
+        "name": "Moldovan leu",
+        "symbol": "L"
+      }
+    ]
+  },
+  {
+    "id": "1b8effc4-89f0-4919-adfc-af4c06289748",
+    "name": "Oriental Republic of Uruguay",
+    "cca2": "UY",
+    "cca3": "URY",
+    "ccn3": 858,
+    "region": "Americas",
+    "latitude": -33,
+    "longitude": -56,
+    "languages": [
+      {
+        "id": 3765,
+        "name": "Spanish",
+        "isoCode": "spa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "c6af185d-bbd1-493e-92a1-6b27625961be",
+        "code": "UYU",
+        "name": "Uruguayan peso",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "89b6e955-b059-433f-bf39-237ed784b91a",
+    "name": "Republic of Chad",
+    "cca2": "TD",
+    "cca3": "TCD",
+    "ccn3": 148,
+    "region": "Africa",
+    "latitude": 15,
+    "longitude": 19,
+    "languages": [
+      {
+        "id": 3766,
+        "name": "Arabic",
+        "isoCode": "ara"
+      },
+      {
+        "id": 3769,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "e0c78162-3175-4fd4-968c-5baa83f1e1c6",
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "f402c1f5-c988-4f51-8f6a-71f76d06b9d5",
+    "name": "Arab Republic of Egypt",
+    "cca2": "EG",
+    "cca3": "EGY",
+    "ccn3": 818,
+    "region": "Africa",
+    "latitude": 27,
+    "longitude": 30,
+    "languages": [
+      {
+        "id": 3771,
+        "name": "Arabic",
+        "isoCode": "ara"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "c70f20fd-00ed-4c59-b3c7-4ad856a9f9b8",
+        "code": "EGP",
+        "name": "Egyptian pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "id": "1e0c81a4-b28e-4344-8c12-21055691485c",
+    "name": "Republic of Guinea-Bissau",
+    "cca2": "GW",
+    "cca3": "GNB",
+    "ccn3": 624,
+    "region": "Africa",
+    "latitude": 12,
+    "longitude": -15,
+    "languages": [
+      {
+        "id": 3767,
+        "name": "Portuguese",
+        "isoCode": "por"
+      },
+      {
+        "id": 3768,
+        "name": "Upper Guinea Creole",
+        "isoCode": "pov"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "2ba9ff59-f2a8-4dcb-845e-196cac033920",
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "8ec731ce-dcb1-47e3-8cac-1a9bfb1749c7",
+    "name": "Republic of Vanuatu",
+    "cca2": "VU",
+    "cca3": "VUT",
+    "ccn3": 548,
+    "region": "Oceania",
+    "latitude": -16,
+    "longitude": 167,
+    "languages": [
+      {
+        "id": 3773,
+        "name": "Bislama",
+        "isoCode": "bis"
+      },
+      {
+        "id": 3776,
+        "name": "French",
+        "isoCode": "fra"
+      },
+      {
+        "id": 3781,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "9168e0c6-811c-44f8-b50f-3dadc9946ba4",
+        "code": "VUV",
+        "name": "Vanuatu vatu",
+        "symbol": "Vt"
+      }
+    ]
+  },
+  {
+    "id": "f34adb00-fba5-4a59-b74b-8cf1de0a1577",
+    "name": "Territory of the Wallis and Futuna Islands",
+    "cca2": "WF",
+    "cca3": "WLF",
+    "ccn3": 876,
+    "region": "Oceania",
+    "latitude": -13.3,
+    "longitude": -176.2,
+    "languages": [
+      {
+        "id": 3778,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "0f99784a-c0fd-4e2a-b596-002ed913c249",
+        "code": "XPF",
+        "name": "CFP franc",
+        "symbol": "₣"
+      }
+    ]
+  },
+  {
+    "id": "6223a627-dd60-47f4-94e9-98eaf44a80e1",
+    "name": "Romania",
+    "cca2": "RO",
+    "cca3": "ROU",
+    "ccn3": 642,
+    "region": "Europe",
+    "latitude": 46,
+    "longitude": 25,
+    "languages": [
+      {
+        "id": 3774,
+        "name": "Romanian",
+        "isoCode": "ron"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "61cc9b40-4c39-40de-987d-54b4bf52a0f8",
+        "code": "RON",
+        "name": "Romanian leu",
+        "symbol": "lei"
+      }
+    ]
+  },
+  {
+    "id": "48c2fbca-1026-4031-b225-804cf4076205",
+    "name": "Republic of Malawi",
+    "cca2": "MW",
+    "cca3": "MWI",
+    "ccn3": 454,
+    "region": "Africa",
+    "latitude": -13.5,
+    "longitude": 34,
+    "languages": [
+      {
+        "id": 3772,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3775,
+        "name": "Chewa",
+        "isoCode": "nya"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "414d213c-364d-4bdf-af4d-86ed17580b94",
+        "code": "MWK",
+        "name": "Malawian kwacha",
+        "symbol": "MK"
+      }
+    ]
+  },
+  {
+    "id": "237e2db3-59b5-430e-a4bc-d050fda5025d",
+    "name": "Republic of Panama",
+    "cca2": "PA",
+    "cca3": "PAN",
+    "ccn3": 591,
+    "region": "Americas",
+    "latitude": 9,
+    "longitude": -80,
+    "languages": [
+      {
+        "id": 3777,
+        "name": "Spanish",
+        "isoCode": "spa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "ee0e5f11-0b57-49e9-88ab-57c8ba80fbdd",
+        "code": "PAB",
+        "name": "Panamanian balboa",
+        "symbol": "B/."
+      },
+      {
+        "id": "f83c408e-25e4-4235-a7ff-7dcff4abaa9d",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "7418f0a1-3efd-43e1-9d0b-cd1453e5b80b",
+    "name": "State of Libya",
+    "cca2": "LY",
+    "cca3": "LBY",
+    "ccn3": 434,
+    "region": "Africa",
+    "latitude": 25,
+    "longitude": 17,
+    "languages": [
+      {
+        "id": 3779,
+        "name": "Arabic",
+        "isoCode": "ara"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "600436a7-33f3-4053-948e-b390f2766928",
+        "code": "LYD",
+        "name": "Libyan dinar",
+        "symbol": "ل.د"
+      }
+    ]
+  },
+  {
+    "id": "788899d4-3080-4bad-bc96-d05af2b379d8",
+    "name": "Republic of Peru",
+    "cca2": "PE",
+    "cca3": "PER",
+    "ccn3": 604,
+    "region": "Americas",
+    "latitude": -10,
+    "longitude": -76,
+    "languages": [
+      {
+        "id": 3782,
+        "name": "Quechua",
+        "isoCode": "que"
+      },
+      {
+        "id": 3783,
+        "name": "Aymara",
+        "isoCode": "aym"
+      },
+      {
+        "id": 3788,
+        "name": "Spanish",
+        "isoCode": "spa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "2a911d58-3526-4864-86ea-8405c87dda34",
+        "code": "PEN",
+        "name": "Peruvian sol",
+        "symbol": "S/ "
+      }
+    ]
+  },
+  {
+    "id": "b1895f90-b5b8-45b4-94a0-a0b2879c5886",
+    "name": "Country of Curaçao",
+    "cca2": "CW",
+    "cca3": "CUW",
+    "ccn3": 531,
+    "region": "Americas",
+    "latitude": 12.116667,
+    "longitude": -68.933333,
+    "languages": [
+      {
+        "id": 3780,
+        "name": "Papiamento",
+        "isoCode": "pap"
+      },
+      {
+        "id": 3784,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3791,
+        "name": "Dutch",
+        "isoCode": "nld"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "be53d975-d1ff-44ec-a64c-d5f48886fc9f",
+        "code": "ANG",
+        "name": "Netherlands Antillean guilder",
+        "symbol": "ƒ"
+      }
+    ]
+  },
+  {
+    "id": "3f7611f7-e9e7-4a9f-b7b0-8dbc5b8103db",
+    "name": "Greenland",
+    "cca2": "GL",
+    "cca3": "GRL",
+    "ccn3": 304,
+    "region": "Americas",
+    "latitude": 72,
+    "longitude": -40,
+    "languages": [
+      {
+        "id": 3789,
+        "name": "Greenlandic",
+        "isoCode": "kal"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "d69727fd-f4fc-4830-9736-3685faef14f7",
+        "code": "DKK",
+        "name": "krone",
+        "symbol": "kr."
+      }
+    ]
+  },
+  {
+    "id": "1e8af2e7-f835-4b7e-ae29-b7be486ecd4a",
+    "name": "French Polynesia",
+    "cca2": "PF",
+    "cca3": "PYF",
+    "ccn3": 258,
+    "region": "Oceania",
+    "latitude": 17.6797,
+    "longitude": 149.4068,
+    "languages": [
+      {
+        "id": 3786,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "d3284f70-445c-4816-81b8-604d3aad0f2d",
+        "code": "XPF",
+        "name": "CFP franc",
+        "symbol": "₣"
+      }
+    ]
+  },
+  {
+    "id": "6f6bee20-2679-4104-b8d3-7b1619bd7269",
+    "name": "United States Minor Outlying Islands",
+    "cca2": "UM",
+    "cca3": "UMI",
+    "ccn3": 581,
+    "region": "Americas",
+    "latitude": 19.3,
+    "longitude": 166.633333,
+    "languages": [
+      {
+        "id": 3790,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "74af6b30-9c72-423b-823e-b455706ce54b",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "9e83725b-7d6d-4edd-9884-65780ad81733",
+    "name": "Gibraltar",
+    "cca2": "GI",
+    "cca3": "GIB",
+    "ccn3": 292,
+    "region": "Europe",
+    "latitude": 36.13333333,
+    "longitude": -5.35,
+    "languages": [
+      {
+        "id": 3785,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "b6393f65-1d6b-4ffa-a10d-d7e26c3ddba1",
+        "code": "GIP",
+        "name": "Gibraltar pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "id": "a1689107-0160-4e31-8a28-74cce6258416",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "cca2": "GB",
+    "cca3": "GBR",
+    "ccn3": 826,
+    "region": "Europe",
+    "latitude": 54,
+    "longitude": -2,
+    "languages": [
+      {
+        "id": 3787,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "949dc4ba-2913-43e0-94cc-98805f970c18",
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "id": "ca288512-21f8-4305-ab10-fccd4efe869a",
+    "name": "People's Republic of China",
+    "cca2": "CN",
+    "cca3": "CHN",
+    "ccn3": 156,
+    "region": "Asia",
+    "latitude": 35,
+    "longitude": 105,
+    "languages": [
+      {
+        "id": 3793,
+        "name": "Chinese",
+        "isoCode": "zho"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "bdbe2b0a-eec1-4084-b598-fc7f6919b62a",
+        "code": "CNY",
+        "name": "Chinese yuan",
+        "symbol": "¥"
+      }
+    ]
+  },
+  {
+    "id": "90d43520-a3d0-4a89-8338-9d16a12058d8",
+    "name": "Republic of Niger",
+    "cca2": "NE",
+    "cca3": "NER",
+    "ccn3": 562,
+    "region": "Africa",
+    "latitude": 16,
+    "longitude": 8,
+    "languages": [
+      {
+        "id": 3797,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "111579a4-c497-4e91-b6a3-44e78e106fe0",
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "639b58cd-39ec-422c-81e5-2e4bf5748d77",
+    "name": "People's Republic of Bangladesh",
+    "cca2": "BD",
+    "cca3": "BGD",
+    "ccn3": 50,
+    "region": "Asia",
+    "latitude": 24,
+    "longitude": 90,
+    "languages": [
+      {
+        "id": 3794,
+        "name": "Bengali",
+        "isoCode": "ben"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "1f70b874-f997-4bb6-a9d8-80104cb08257",
+        "code": "BDT",
+        "name": "Bangladeshi taka",
+        "symbol": "৳"
+      }
+    ]
+  },
+  {
+    "id": "3e5e9916-02ba-45f6-a806-4ce84b4bf721",
+    "name": "Sultanate of Oman",
+    "cca2": "OM",
+    "cca3": "OMN",
+    "ccn3": 512,
+    "region": "Asia",
+    "latitude": 21,
+    "longitude": 57,
+    "languages": [
+      {
+        "id": 3795,
+        "name": "Arabic",
+        "isoCode": "ara"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "4c731795-4176-46be-a8e4-579cf9d66baa",
+        "code": "OMR",
+        "name": "Omani rial",
+        "symbol": "ر.ع."
+      }
+    ]
+  },
+  {
+    "id": "3b602570-cc4c-4329-b92e-13a6f62115d0",
+    "name": "Union of the Comoros",
+    "cca2": "KM",
+    "cca3": "COM",
+    "ccn3": 174,
+    "region": "Africa",
+    "latitude": -12.16666666,
+    "longitude": 44.25,
+    "languages": [
+      {
+        "id": 3799,
+        "name": "Arabic",
+        "isoCode": "ara"
+      },
+      {
+        "id": 3802,
+        "name": "French",
+        "isoCode": "fra"
+      },
+      {
+        "id": 3814,
+        "name": "Comorian",
+        "isoCode": "zdj"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "565512f2-26fd-4e8c-9020-5d44a45a1ac9",
+        "code": "KMF",
+        "name": "Comorian franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "03dea781-8d8d-4d76-95d5-1412fa8a3cf9",
+    "name": "Martinique",
+    "cca2": "MQ",
+    "cca3": "MTQ",
+    "ccn3": 474,
+    "region": "Americas",
+    "latitude": 14.666667,
+    "longitude": -61,
+    "languages": [
+      {
+        "id": 3808,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "c20854a2-4a8b-4d54-8c40-36cec1ab79db",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "b879bb4a-69a3-49d4-99ed-ba34b86c729b",
+    "name": "Anguilla",
+    "cca2": "AI",
+    "cca3": "AIA",
+    "ccn3": 660,
+    "region": "Americas",
+    "latitude": 18.25,
+    "longitude": -63.16666666,
+    "languages": [
+      {
+        "id": 3841,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "06e05839-01ab-48d4-8581-b4cc6bcb62d6",
+        "code": "XCD",
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "5bd3ceb9-9932-4221-a97b-4a5e36a973c6",
+    "name": "Slovak Republic",
+    "cca2": "SK",
+    "cca3": "SVK",
+    "ccn3": 703,
+    "region": "Europe",
+    "latitude": 48.66666666,
+    "longitude": 19.5,
+    "languages": [
+      {
+        "id": 3855,
+        "name": "Slovak",
+        "isoCode": "slk"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "236eb818-b179-4181-bb68-7b3d8d9c5941",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "5fa73e25-73a1-493a-9626-ec02e19c1203",
+    "name": "Svalbard og Jan Mayen",
+    "cca2": "SJ",
+    "cca3": "SJM",
+    "ccn3": 744,
+    "region": "Europe",
+    "latitude": 78,
+    "longitude": 20,
+    "languages": [
+      {
+        "id": 3868,
+        "name": "Norwegian",
+        "isoCode": "nor"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "3ef8d39d-c8e8-48e9-aa61-daaa041f392b",
+        "code": "NOK",
+        "name": "krone",
+        "symbol": "kr"
+      }
+    ]
+  },
+  {
+    "id": "33daac48-5d4a-468a-8b37-be227b5ed486",
+    "name": "Republic of Colombia",
+    "cca2": "CO",
+    "cca3": "COL",
+    "ccn3": 170,
+    "region": "Americas",
+    "latitude": 4,
+    "longitude": -72,
+    "languages": [
+      {
+        "id": 3885,
+        "name": "Spanish",
+        "isoCode": "spa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "f9ea3b74-490a-45e1-87b3-b70b5af2ac8d",
+        "code": "COP",
+        "name": "Colombian peso",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "bf18edc7-2988-4a95-8034-ea8abb46fd41",
+    "name": "Principality of Monaco",
+    "cca2": "MC",
+    "cca3": "MCO",
+    "ccn3": 492,
+    "region": "Europe",
+    "latitude": 43.73333333,
+    "longitude": 7.4,
+    "languages": [
+      {
+        "id": 3903,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "ebef4bd9-9c01-4049-b596-3e9ba621f77d",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "73aeffc7-7c26-4d0b-91c0-b82e3de51b49",
+    "name": "Republic of Korea",
+    "cca2": "KR",
+    "cca3": "KOR",
+    "ccn3": 410,
+    "region": "Asia",
+    "latitude": 37,
+    "longitude": 127.5,
+    "languages": [
+      {
+        "id": 3918,
+        "name": "Korean",
+        "isoCode": "kor"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "9d722918-f1d0-4d0c-b21b-035c5cea36e9",
+        "code": "KRW",
+        "name": "South Korean won",
+        "symbol": "₩"
+      }
+    ]
+  },
+  {
+    "id": "2d00d3d3-ca57-4cc7-a143-7b1b21814b44",
+    "name": "Republic of Cuba",
+    "cca2": "CU",
+    "cca3": "CUB",
+    "ccn3": 192,
+    "region": "Americas",
+    "latitude": 21.5,
+    "longitude": -80,
+    "languages": [
+      {
+        "id": 3923,
+        "name": "Spanish",
+        "isoCode": "spa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "ad05f6e5-06ed-4659-99f1-c7e2152ad0bd",
+        "code": "CUC",
+        "name": "Cuban convertible peso",
+        "symbol": "$"
+      },
+      {
+        "id": "28be67cd-abda-47ce-9c56-5d16cc9c5d3d",
+        "code": "CUP",
+        "name": "Cuban peso",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "a9c626a3-c40a-4391-bf7d-b4e22aefc1ad",
+    "name": "Republic of Cabo Verde",
+    "cca2": "CV",
+    "cca3": "CPV",
+    "ccn3": 132,
+    "region": "Africa",
+    "latitude": 16.5388,
+    "longitude": 23.0418,
+    "languages": [
+      {
+        "id": 3939,
+        "name": "Portuguese",
+        "isoCode": "por"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "847e02a0-81d3-4ba1-8489-2f2bd5210430",
+        "code": "CVE",
+        "name": "Cape Verdean escudo",
+        "symbol": "Esc"
+      }
+    ]
+  },
+  {
+    "id": "e8270c78-2568-4369-8a7d-4ccfdb44f7af",
+    "name": "Republic of Djibouti",
+    "cca2": "DJ",
+    "cca3": "DJI",
+    "ccn3": 262,
+    "region": "Africa",
+    "latitude": 11.5,
+    "longitude": 43,
+    "languages": [
+      {
+        "id": 3943,
+        "name": "Arabic",
+        "isoCode": "ara"
+      },
+      {
+        "id": 3946,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "f4166751-427a-4105-8c8d-d3b9b9dbd67b",
+        "code": "DJF",
+        "name": "Djiboutian franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "14373a1a-a141-4225-bf45-276386f33fd2",
+    "name": "Tokelau",
+    "cca2": "TK",
+    "cca3": "TKL",
+    "ccn3": 772,
+    "region": "Oceania",
+    "latitude": -9,
+    "longitude": -172,
+    "languages": [
+      {
+        "id": 3952,
+        "name": "Tokelauan",
+        "isoCode": "tkl"
+      },
+      {
+        "id": 3953,
+        "name": "Samoan",
+        "isoCode": "smo"
+      },
+      {
+        "id": 3951,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "34ecaf1c-4203-4a4e-bca7-85f77eed386f",
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "c0b95c61-0ee6-4994-b29f-3cfc6d38d898",
+    "name": "Federal Republic of Somalia",
+    "cca2": "SO",
+    "cca3": "SOM",
+    "ccn3": 706,
+    "region": "Africa",
+    "latitude": 10,
+    "longitude": 49,
+    "languages": [
+      {
+        "id": 3963,
+        "name": "Arabic",
+        "isoCode": "ara"
+      },
+      {
+        "id": 3965,
+        "name": "Somali",
+        "isoCode": "som"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "da36f9f2-5a7a-455e-bef6-e700c9ee1153",
+        "code": "SOS",
+        "name": "Somali shilling",
+        "symbol": "Sh"
+      }
+    ]
+  },
+  {
+    "id": "a07a808e-013e-4e65-8d3a-ed23317b2d31",
+    "name": "Republic of Latvia",
+    "cca2": "LV",
+    "cca3": "LVA",
+    "ccn3": 428,
+    "region": "Europe",
+    "latitude": 57,
+    "longitude": 25,
+    "languages": [
+      {
+        "id": 3981,
+        "name": "Latvian",
+        "isoCode": "lav"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "6e0e2406-3cad-4921-91a8-479decf57862",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "fbcfde26-aa51-4c2a-b5aa-cd3b728648b3",
+    "name": "Republic of Senegal",
+    "cca2": "SN",
+    "cca3": "SEN",
+    "ccn3": 686,
+    "region": "Africa",
+    "latitude": 14,
+    "longitude": -14,
+    "languages": [
+      {
+        "id": 4004,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "816dab9a-6369-49fe-9113-c0e763df3046",
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "9f1ec388-74a5-4484-9ae7-85512b6aaf6b",
+    "name": "Republic of Sierra Leone",
+    "cca2": "SL",
+    "cca3": "SLE",
+    "ccn3": 694,
+    "region": "Africa",
+    "latitude": 8.5,
+    "longitude": -11.5,
+    "languages": [
+      {
+        "id": 4010,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "baf7a2f3-403e-4fa0-b26c-26d42f2bc7c6",
+        "code": "SLL",
+        "name": "Sierra Leonean leone",
+        "symbol": "Le"
+      }
+    ]
+  },
+  {
+    "id": "8ddd2d58-c820-4afe-8135-a562dec64480",
+    "name": "French Republic",
+    "cca2": "FR",
+    "cca3": "FRA",
+    "ccn3": 250,
+    "region": "Europe",
+    "latitude": 46,
+    "longitude": 2,
+    "languages": [
+      {
+        "id": 4025,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "dbb9c80a-b1ba-4d08-98f3-86efc9f3ab3a",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "288fef7f-5b8c-49fa-bb00-0ac807c0db96",
+    "name": "Collectivity of Saint Barthélemy",
+    "cca2": "BL",
+    "cca3": "BLM",
+    "ccn3": 652,
+    "region": "Americas",
+    "latitude": 18.5,
+    "longitude": -63.41666666,
+    "languages": [
+      {
+        "id": 4037,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "7de818bc-6c07-4110-89ab-1c9c0da1046d",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "6830d10f-b81a-42f4-8770-da897bfac3f9",
+    "name": "Republic of Finland",
+    "cca2": "FI",
+    "cca3": "FIN",
+    "ccn3": 246,
+    "region": "Europe",
+    "latitude": 64,
+    "longitude": 26,
+    "languages": [
+      {
+        "id": 4052,
+        "name": "Swedish",
+        "isoCode": "swe"
+      },
+      {
+        "id": 4053,
+        "name": "Finnish",
+        "isoCode": "fin"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "983d47f8-1d3d-4603-bb08-0189ee4b3f57",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "c3d70a71-e33f-46a2-a375-01254f997dbc",
+    "name": "Republic of Botswana",
+    "cca2": "BW",
+    "cca3": "BWA",
+    "ccn3": 72,
+    "region": "Africa",
+    "latitude": -22,
+    "longitude": 24,
+    "languages": [
+      {
+        "id": 4065,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 4064,
+        "name": "Tswana",
+        "isoCode": "tsn"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "af1f5b89-2399-46b3-8246-e01f803d7070",
+        "code": "BWP",
+        "name": "Botswana pula",
+        "symbol": "P"
+      }
+    ]
+  },
+  {
+    "id": "2c48551f-aa9f-4475-941c-8f03c2c7cd17",
+    "name": "Togolese Republic",
+    "cca2": "TG",
+    "cca3": "TGO",
+    "ccn3": 768,
+    "region": "Africa",
+    "latitude": 8,
+    "longitude": 1.16666666,
+    "languages": [
+      {
+        "id": 4083,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "852152d1-2711-44ff-b75e-1920fee5d967",
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "7d4b815f-62b4-4ff2-8cce-aa08c0cd56e1",
+    "name": "Bosnia and Herzegovina",
+    "cca2": "BA",
+    "cca3": "BIH",
+    "ccn3": 70,
+    "region": "Europe",
+    "latitude": 44,
+    "longitude": 18,
+    "languages": [
+      {
+        "id": 4094,
+        "name": "Bosnian",
+        "isoCode": "bos"
+      },
+      {
+        "id": 4100,
+        "name": "Serbian",
+        "isoCode": "srp"
+      },
+      {
+        "id": 4095,
+        "name": "Croatian",
+        "isoCode": "hrv"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "07216487-bda9-4a5d-848a-cdbb9cc76ec2",
+        "code": "BAM",
+        "name": "Bosnia and Herzegovina convertible mark",
+        "symbol": null
+      }
+    ]
+  },
+  {
+    "id": "da8f553c-edbe-4b7b-82cd-e0ddebfa7445",
+    "name": "Republic of the Congo",
+    "cca2": "CG",
+    "cca3": "COG",
+    "ccn3": 178,
+    "region": "Africa",
+    "latitude": -1,
+    "longitude": 15,
+    "languages": [
+      {
+        "id": 3792,
+        "name": "French",
+        "isoCode": "fra"
+      },
+      {
+        "id": 3798,
+        "name": "Lingala",
+        "isoCode": "lin"
+      },
+      {
+        "id": 3805,
+        "name": "Kikongo",
+        "isoCode": "kon"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "6946cb4c-981d-4df1-8224-c9174bd85309",
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "83f5cb7a-47cd-411d-8ef2-5b8f478e013d",
+    "name": "Nation of Brunei, Abode of Peace",
+    "cca2": "BN",
+    "cca3": "BRN",
+    "ccn3": 96,
+    "region": "Asia",
+    "latitude": 4.5,
+    "longitude": 114.66666666,
+    "languages": [
+      {
+        "id": 3812,
+        "name": "Malay",
+        "isoCode": "msa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "9ee1afa8-7856-4ecd-acf6-9effa0823a09",
+        "code": "SGD",
+        "name": "Singapore dollar",
+        "symbol": "$"
+      },
+      {
+        "id": "1d993173-ea5b-4feb-b66c-9e0b974da283",
+        "code": "BND",
+        "name": "Brunei dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "546cc729-7bd3-4691-ab0b-5f77d09136e7",
+    "name": "Federal Democratic Republic of Ethiopia",
+    "cca2": "ET",
+    "cca3": "ETH",
+    "ccn3": 231,
+    "region": "Africa",
+    "latitude": 8,
+    "longitude": 38,
+    "languages": [
+      {
+        "id": 3828,
+        "name": "Amharic",
+        "isoCode": "amh"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "655f904b-f427-404c-9259-7c3c7cac77fa",
+        "code": "ETB",
+        "name": "Ethiopian birr",
+        "symbol": "Br"
+      }
+    ]
+  },
+  {
+    "id": "331daa88-7777-4625-83ce-969e781c4288",
+    "name": "United Republic of Tanzania",
+    "cca2": "TZ",
+    "cca3": "TZA",
+    "ccn3": 834,
+    "region": "Africa",
+    "latitude": -6,
+    "longitude": 35,
+    "languages": [
+      {
+        "id": 3843,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3845,
+        "name": "Swahili",
+        "isoCode": "swa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "846258a6-cfe2-43cf-a544-35f1927e1d51",
+        "code": "TZS",
+        "name": "Tanzanian shilling",
+        "symbol": "Sh"
+      }
+    ]
+  },
+  {
+    "id": "34f6d127-cf31-4b5c-8d78-713c26e3a796",
+    "name": "Canada",
+    "cca2": "CA",
+    "cca3": "CAN",
+    "ccn3": 124,
+    "region": "Americas",
+    "latitude": 60,
+    "longitude": -95,
+    "languages": [
+      {
+        "id": 3860,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3869,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "68f3f075-747b-4725-9a97-78c6d051247a",
+        "code": "CAD",
+        "name": "Canadian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "cab3ac55-db1d-4cde-a01d-14851a2ee9e1",
+    "name": "Islamic Republic of Afghanistan",
+    "cca2": "AF",
+    "cca3": "AFG",
+    "ccn3": 4,
+    "region": "Asia",
+    "latitude": 33,
+    "longitude": 65,
+    "languages": [
+      {
+        "id": 3882,
+        "name": "Turkmen",
+        "isoCode": "tuk"
+      },
+      {
+        "id": 3873,
+        "name": "Dari",
+        "isoCode": "prs"
+      },
+      {
+        "id": 3871,
+        "name": "Pashto",
+        "isoCode": "pus"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "7bc049bc-1f50-470b-8487-9e89ab7cf3e2",
+        "code": "AFN",
+        "name": "Afghan afghani",
+        "symbol": "؋"
+      }
+    ]
+  },
+  {
+    "id": "63fee4ce-a9b6-488c-b84c-aff6635f1840",
+    "name": "Georgia",
+    "cca2": "GE",
+    "cca3": "GEO",
+    "ccn3": 268,
+    "region": "Asia",
+    "latitude": 42,
+    "longitude": 43.5,
+    "languages": [
+      {
+        "id": 3889,
+        "name": "Georgian",
+        "isoCode": "kat"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "aabea556-1051-46c3-b02a-5b23e606a973",
+        "code": "GEL",
+        "name": "lari",
+        "symbol": "₾"
+      }
+    ]
+  },
+  {
+    "id": "6efb4dcd-dc51-41a7-b335-3ee0fff8fb27",
+    "name": "State of Qatar",
+    "cca2": "QA",
+    "cca3": "QAT",
+    "ccn3": 634,
+    "region": "Asia",
+    "latitude": 25.5,
+    "longitude": 51.25,
+    "languages": [
+      {
+        "id": 3909,
+        "name": "Arabic",
+        "isoCode": "ara"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "bde54b1a-3854-4d5b-8d80-ec2e17fedb0e",
+        "code": "QAR",
+        "name": "Qatari riyal",
+        "symbol": "ر.ق"
+      }
+    ]
+  },
+  {
+    "id": "4054c53b-3243-415e-9182-5d8a82c93a0e",
+    "name": "Kingdom of Bahrain",
+    "cca2": "BH",
+    "cca3": "BHR",
+    "ccn3": 48,
+    "region": "Asia",
+    "latitude": 26,
+    "longitude": 50.55,
+    "languages": [
+      {
+        "id": 3914,
+        "name": "Arabic",
+        "isoCode": "ara"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "96a4fb81-f535-4b24-872d-df9a97a132f2",
+        "code": "BHD",
+        "name": "Bahraini dinar",
+        "symbol": ".د.ب"
+      }
+    ]
+  },
+  {
+    "id": "3e7ea2e9-fd0f-4b64-9d4c-a85c991422ba",
+    "name": "Kingdom of Cambodia",
+    "cca2": "KH",
+    "cca3": "KHM",
+    "ccn3": 116,
+    "region": "Asia",
+    "latitude": 13,
+    "longitude": 105,
+    "languages": [
+      {
+        "id": 3933,
+        "name": "Khmer",
+        "isoCode": "khm"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "7402a26b-cee0-4839-bb8a-bab32b3a1915",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      },
+      {
+        "id": "7ea7f329-251b-47e7-bc26-d352f0556007",
+        "code": "KHR",
+        "name": "Cambodian riel",
+        "symbol": "៛"
+      }
+    ]
+  },
+  {
+    "id": "856db226-92ff-4c87-9f1a-6f0ccad3f52a",
+    "name": "Kingdom of Tonga",
+    "cca2": "TO",
+    "cca3": "TON",
+    "ccn3": 776,
+    "region": "Oceania",
+    "latitude": -20,
+    "longitude": -175,
+    "languages": [
+      {
+        "id": 3944,
+        "name": "Tongan",
+        "isoCode": "ton"
+      },
+      {
+        "id": 3938,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "567ac320-72af-44bf-8e97-1cde998166c6",
+        "code": "TOP",
+        "name": "Tongan paʻanga",
+        "symbol": "T$"
+      }
+    ]
+  },
+  {
+    "id": "90feff33-ff42-47b4-88b0-b0e50f66265b",
+    "name": "Turks and Caicos Islands",
+    "cca2": "TC",
+    "cca3": "TCA",
+    "ccn3": 796,
+    "region": "Americas",
+    "latitude": 21.75,
+    "longitude": -71.58333333,
+    "languages": [
+      {
+        "id": 3960,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "22838616-f661-48ec-94ca-2aece66094eb",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "4bc42551-53c5-46bd-8274-707c50c9a4d6",
+    "name": "Federated States of Micronesia",
+    "cca2": "FM",
+    "cca3": "FSM",
+    "ccn3": 583,
+    "region": "Oceania",
+    "latitude": 6.91666666,
+    "longitude": 158.25,
+    "languages": [
+      {
+        "id": 3982,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "4e8e025a-74fd-4877-844f-9b5eb3ed2984",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "6b0fb1dc-0b3a-474a-90e7-125ae67d3ece",
+    "name": "Republic of Côte d'Ivoire",
+    "cca2": "CI",
+    "cca3": "CIV",
+    "ccn3": 384,
+    "region": "Africa",
+    "latitude": 8,
+    "longitude": -5,
+    "languages": [
+      {
+        "id": 3985,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "a9f1324c-72a2-4e07-88fd-0d03c0383607",
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "2a986284-4e03-4257-9920-54f87bdb2a27",
+    "name": "Sint Maarten",
+    "cca2": "SX",
+    "cca3": "SXM",
+    "ccn3": 534,
+    "region": "Americas",
+    "latitude": 18.033333,
+    "longitude": -63.05,
+    "languages": [
+      {
+        "id": 4012,
+        "name": "Dutch",
+        "isoCode": "nld"
+      },
+      {
+        "id": 4017,
+        "name": "French",
+        "isoCode": "fra"
+      },
+      {
+        "id": 4009,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "3fde861a-40b9-460e-b165-ed6e7fcb6c2d",
+        "code": "ANG",
+        "name": "Netherlands Antillean guilder",
+        "symbol": "ƒ"
+      }
+    ]
+  },
+  {
+    "id": "5baf215d-8240-41c1-9b6f-57820bdd00b0",
+    "name": "Russian Federation",
+    "cca2": "RU",
+    "cca3": "RUS",
+    "ccn3": 643,
+    "region": "Europe",
+    "latitude": 60,
+    "longitude": 100,
+    "languages": [
+      {
+        "id": 4019,
+        "name": "Russian",
+        "isoCode": "rus"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "2836d2e1-3c1c-4f0e-a7b7-0ebda552674b",
+        "code": "RUB",
+        "name": "Russian ruble",
+        "symbol": "₽"
+      }
+    ]
+  },
+  {
+    "id": "91158e93-920d-4196-8758-b217c3bb6d97",
+    "name": "Republic of Mali",
+    "cca2": "ML",
+    "cca3": "MLI",
+    "ccn3": 466,
+    "region": "Africa",
+    "latitude": 17,
+    "longitude": -4,
+    "languages": [
+      {
+        "id": 4044,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "a7861c4c-4d0f-44b5-9d58-14591c9e52e4",
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "8458b33d-1dc8-43d2-8227-6e493caf00a0",
+    "name": "Kingdom of Norway",
+    "cca2": "NO",
+    "cca3": "NOR",
+    "ccn3": 578,
+    "region": "Europe",
+    "latitude": 62,
+    "longitude": 10,
+    "languages": [
+      {
+        "id": 4050,
+        "name": "Norwegian Bokmål",
+        "isoCode": "nob"
+      },
+      {
+        "id": 4051,
+        "name": "Norwegian Nynorsk",
+        "isoCode": "nno"
+      },
+      {
+        "id": 4048,
+        "name": "Sami",
+        "isoCode": "smi"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "834fc461-efd4-4cdc-ab5a-46123bec4cf6",
+        "code": "NOK",
+        "name": "Norwegian krone",
+        "symbol": "kr"
+      }
+    ]
+  },
+  {
+    "id": "327f77e0-09fa-49df-9f0e-2dc9cefc44f3",
+    "name": "Republic of Serbia",
+    "cca2": "RS",
+    "cca3": "SRB",
+    "ccn3": 688,
+    "region": "Europe",
+    "latitude": 44,
+    "longitude": 21,
+    "languages": [
+      {
+        "id": 4104,
+        "name": "Serbian",
+        "isoCode": "srp"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "214098e9-1e6b-4d15-9f43-3474c46278b4",
+        "code": "RSD",
+        "name": "Serbian dinar",
+        "symbol": "дин."
+      }
+    ]
+  },
+  {
+    "id": "95fb84e2-a383-48ed-85fe-9153146f883b",
+    "name": "Barbados",
+    "cca2": "BB",
+    "cca3": "BRB",
+    "ccn3": 52,
+    "region": "Americas",
+    "latitude": 13.16666666,
+    "longitude": -59.53333333,
+    "languages": [
+      {
+        "id": 4077,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "1f31a686-93b7-4dd2-a3dd-54e43375758b",
+        "code": "BBD",
+        "name": "Barbadian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "ff994d77-c5b6-4dcb-8c67-da4dc058726f",
+    "name": "Democratic Republic of Timor-Leste",
+    "cca2": "TL",
+    "cca3": "TLS",
+    "ccn3": 626,
+    "region": "Asia",
+    "latitude": -8.83333333,
+    "longitude": 125.91666666,
+    "languages": [
+      {
+        "id": 4093,
+        "name": "Tetum",
+        "isoCode": "tet"
+      },
+      {
+        "id": 4096,
+        "name": "Portuguese",
+        "isoCode": "por"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "8a5d89d0-0b34-4e63-bb93-466ecd190fc5",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "786a20cb-7b61-437c-8aa8-f3b2ed3fc9a2",
+    "name": "Pitcairn Group of Islands",
+    "cca2": "PN",
+    "cca3": "PCN",
+    "ccn3": 612,
+    "region": "Oceania",
+    "latitude": -25.06666666,
+    "longitude": -130.1,
+    "languages": [
+      {
+        "id": 3796,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "9a4470c3-7353-4b9d-a28c-55d4d214e479",
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "495bee46-f15d-4f9e-9c8f-34865fae6878",
+    "name": "Co-operative Republic of Guyana",
+    "cca2": "GY",
+    "cca3": "GUY",
+    "ccn3": 328,
+    "region": "Americas",
+    "latitude": 5,
+    "longitude": -59,
+    "languages": [
+      {
+        "id": 3822,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "6fb90ac6-bfe8-4858-961e-3705b862ec8f",
+        "code": "GYD",
+        "name": "Guyanese dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "1a75f2d3-efd0-4e37-82c7-3197e6e963c4",
+    "name": "Republic of Singapore",
+    "cca2": "SG",
+    "cca3": "SGP",
+    "ccn3": 702,
+    "region": "Asia",
+    "latitude": 1.36666666,
+    "longitude": 103.8,
+    "languages": [
+      {
+        "id": 3816,
+        "name": "Malay",
+        "isoCode": "msa"
+      },
+      {
+        "id": 3818,
+        "name": "Chinese",
+        "isoCode": "zho"
+      },
+      {
+        "id": 3819,
+        "name": "Tamil",
+        "isoCode": "tam"
+      },
+      {
+        "id": 3830,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "a764daf4-4485-407e-a891-323e1a20dd89",
+        "code": "SGD",
+        "name": "Singapore dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "05286cb1-249a-43f3-931b-bebea04de47b",
+    "name": "Dominican Republic",
+    "cca2": "DO",
+    "cca3": "DOM",
+    "ccn3": 214,
+    "region": "Americas",
+    "latitude": 19,
+    "longitude": -70.66666666,
+    "languages": [
+      {
+        "id": 3839,
+        "name": "Spanish",
+        "isoCode": "spa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "49c51d2c-1e53-4a7f-aff3-5880de27d841",
+        "code": "DOP",
+        "name": "Dominican peso",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "2c7c17e2-ce66-4787-b501-cd042c300176",
+    "name": "Republic of Suriname",
+    "cca2": "SR",
+    "cca3": "SUR",
+    "ccn3": 740,
+    "region": "Americas",
+    "latitude": 4,
+    "longitude": -56,
+    "languages": [
+      {
+        "id": 3849,
+        "name": "Dutch",
+        "isoCode": "nld"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "3bfa7d0a-25d8-407e-8b9f-1fbd99ac3835",
+        "code": "SRD",
+        "name": "Surinamese dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "883b6c78-29c7-4728-9eb2-3665c3f0f84e",
+    "name": "Democratic Republic of the Congo",
+    "cca2": "CD",
+    "cca3": "COD",
+    "ccn3": 180,
+    "region": "Africa",
+    "latitude": 0,
+    "longitude": 25,
+    "languages": [
+      {
+        "id": 3870,
+        "name": "Tshiluba",
+        "isoCode": "lua"
+      },
+      {
+        "id": 3877,
+        "name": "French",
+        "isoCode": "fra"
+      },
+      {
+        "id": 3880,
+        "name": "Lingala",
+        "isoCode": "lin"
+      },
+      {
+        "id": 3878,
+        "name": "Kikongo",
+        "isoCode": "kon"
+      },
+      {
+        "id": 3876,
+        "name": "Swahili",
+        "isoCode": "swa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "990f64e5-ff6a-4b8a-86e8-171a95642126",
+        "code": "CDF",
+        "name": "Congolese franc",
+        "symbol": "FC"
+      }
+    ]
+  },
+  {
+    "id": "baf48974-b29b-45b9-a855-a635fb5a3bb0",
+    "name": "Republic of the Gambia",
+    "cca2": "GM",
+    "cca3": "GMB",
+    "ccn3": 270,
+    "region": "Africa",
+    "latitude": 13.46666666,
+    "longitude": -16.56666666,
+    "languages": [
+      {
+        "id": 3893,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "a1bd089e-4ab8-48be-b106-736383e83cd1",
+        "code": "GMD",
+        "name": "dalasi",
+        "symbol": "D"
+      }
+    ]
+  },
+  {
+    "id": "21b80559-4d0c-4a82-b74d-5cd99ead0fe5",
+    "name": "Malaysia",
+    "cca2": "MY",
+    "cca3": "MYS",
+    "ccn3": 458,
+    "region": "Asia",
+    "latitude": 2.5,
+    "longitude": 112.5,
+    "languages": [
+      {
+        "id": 3899,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3912,
+        "name": "Malay",
+        "isoCode": "msa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "54ce057b-7623-4421-846e-ee76cce16aab",
+        "code": "MYR",
+        "name": "Malaysian ringgit",
+        "symbol": "RM"
+      }
+    ]
+  },
+  {
+    "id": "0371caaa-00e3-4c2a-b9a7-620a76436f5e",
+    "name": "Republic of Mauritius",
+    "cca2": "MU",
+    "cca3": "MUS",
+    "ccn3": 480,
+    "region": "Africa",
+    "latitude": -20.28333333,
+    "longitude": 57.55,
+    "languages": [
+      {
+        "id": 3916,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3920,
+        "name": "French",
+        "isoCode": "fra"
+      },
+      {
+        "id": 3927,
+        "name": "Mauritian Creole",
+        "isoCode": "mfe"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "f1dc915f-16c7-499d-8c23-90df8a0a32ff",
+        "code": "MUR",
+        "name": "Mauritian rupee",
+        "symbol": "₨"
+      }
+    ]
+  },
+  {
+    "id": "5262568c-aec3-4f07-bfea-05ef5efe1af5",
+    "name": "Hellenic Republic",
+    "cca2": "GR",
+    "cca3": "GRC",
+    "ccn3": 300,
+    "region": "Europe",
+    "latitude": 39,
+    "longitude": 22,
+    "languages": [
+      {
+        "id": 3937,
+        "name": "Greek",
+        "isoCode": "ell"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "da0f1654-5233-4f72-997d-859229211fad",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "42e3ef49-8725-4db2-b26d-c2afd51ce710",
+    "name": "Iceland",
+    "cca2": "IS",
+    "cca3": "ISL",
+    "ccn3": 352,
+    "region": "Europe",
+    "latitude": 65,
+    "longitude": -18,
+    "languages": [
+      {
+        "id": 3947,
+        "name": "Icelandic",
+        "isoCode": "isl"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "d4c7aa82-198b-4aa4-a882-43f10fd6394a",
+        "code": "ISK",
+        "name": "Icelandic króna",
+        "symbol": "kr"
+      }
+    ]
+  },
+  {
+    "id": "6b40f4f9-9df4-413b-a0e3-cddfd311448a",
+    "name": "Republic of Ecuador",
+    "cca2": "EC",
+    "cca3": "ECU",
+    "ccn3": 218,
+    "region": "Americas",
+    "latitude": -2,
+    "longitude": -77.5,
+    "languages": [
+      {
+        "id": 3964,
+        "name": "Spanish",
+        "isoCode": "spa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "ca531276-8566-4668-bfde-cbd817d36361",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "9161a958-7be6-49a1-9bcc-ad4fae20473a",
+    "name": "Republic of Malta",
+    "cca2": "MT",
+    "cca3": "MLT",
+    "ccn3": 470,
+    "region": "Europe",
+    "latitude": 35.9375,
+    "longitude": 14.3754,
+    "languages": [
+      {
+        "id": 3984,
+        "name": "Maltese",
+        "isoCode": "mlt"
+      },
+      {
+        "id": 3974,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "832577f0-eeef-476e-ae1c-d97f4207132d",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "9aa1a95b-a8a7-49fe-89d6-63f5584d238d",
+    "name": "Guadeloupe",
+    "cca2": "GP",
+    "cca3": "GLP",
+    "ccn3": 312,
+    "region": "Americas",
+    "latitude": 16.25,
+    "longitude": -61.583333,
+    "languages": [
+      {
+        "id": 3987,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "36fbb1d7-6bfa-4373-8692-358320c2b116",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "5e0baea6-935d-4670-96f8-28564822d2ae",
+    "name": "Republic of Seychelles",
+    "cca2": "SC",
+    "cca3": "SYC",
+    "ccn3": 690,
+    "region": "Africa",
+    "latitude": -4.58333333,
+    "longitude": 55.66666666,
+    "languages": [
+      {
+        "id": 4006,
+        "name": "Seychellois Creole",
+        "isoCode": "crs"
+      },
+      {
+        "id": 4008,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 4003,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "315a4b81-5d16-49c2-a47b-7014f98ea999",
+        "code": "SCR",
+        "name": "Seychellois rupee",
+        "symbol": "₨"
+      }
+    ]
+  },
+  {
+    "id": "12d5150e-cff2-4cdc-8fd7-1e412c9e58db",
+    "name": "Bermuda",
+    "cca2": "BM",
+    "cca3": "BMU",
+    "ccn3": 60,
+    "region": "Americas",
+    "latitude": 32.33333333,
+    "longitude": -64.75,
+    "languages": [
+      {
+        "id": 4022,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "352f72d6-3773-47a3-80e3-aee2710cd425",
+        "code": "BMD",
+        "name": "Bermudian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "27c765d8-5e49-44a5-987f-f52e332f6e69",
+    "name": "Hong Kong Special Administrative Region of the People's Republic of China",
+    "cca2": "HK",
+    "cca3": "HKG",
+    "ccn3": 344,
+    "region": "Asia",
+    "latitude": 22.267,
+    "longitude": 114.188,
+    "languages": [
+      {
+        "id": 4034,
+        "name": "Chinese",
+        "isoCode": "zho"
+      },
+      {
+        "id": 4030,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "a84db2c6-bcce-4479-856d-40f3f82f0d71",
+        "code": "HKD",
+        "name": "Hong Kong dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "f1851c45-2d40-4328-b029-34c325cb3a49",
+    "name": "Republic of Kosovo",
+    "cca2": "XK",
+    "cca3": "UNK",
+    "ccn3": 0,
+    "region": "Europe",
+    "latitude": 42.666667,
+    "longitude": 21.166667,
+    "languages": [
+      {
+        "id": 4046,
+        "name": "Albanian",
+        "isoCode": "sqi"
+      },
+      {
+        "id": 4054,
+        "name": "Serbian",
+        "isoCode": "srp"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "6da49924-a2cc-44a8-96ff-c0fdd6c54857",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "3213a37c-22f4-4d25-954d-fa89c8e23822",
+    "name": "Kingdom of Eswatini",
+    "cca2": "SZ",
+    "cca3": "SWZ",
+    "ccn3": 748,
+    "region": "Africa",
+    "latitude": -26.5,
+    "longitude": 31.5,
+    "languages": [
+      {
+        "id": 4066,
+        "name": "Swazi",
+        "isoCode": "ssw"
+      },
+      {
+        "id": 4086,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "916cb13a-c226-41d7-8721-5775f6856bc0",
+        "code": "SZL",
+        "name": "Swazi lilangeni",
+        "symbol": "L"
+      },
+      {
+        "id": "a10add9c-7474-4780-8160-195f55a7b8d4",
+        "code": "ZAR",
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    ]
+  },
+  {
+    "id": "afc39761-9d0f-4fc2-b529-caa3928ea48b",
+    "name": "Vatican City State",
+    "cca2": "VA",
+    "cca3": "VAT",
+    "ccn3": 336,
+    "region": "Europe",
+    "latitude": 41.9,
+    "longitude": 12.45,
+    "languages": [
+      {
+        "id": 4071,
+        "name": "Latin",
+        "isoCode": "lat"
+      },
+      {
+        "id": 4076,
+        "name": "Italian",
+        "isoCode": "ita"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "094de905-ac75-4db6-99a1-173664bf1fe6",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "184e245b-0ec9-4835-8fea-f6a315c50b86",
+    "name": "Republic of Turkey",
+    "cca2": "TR",
+    "cca3": "TUR",
+    "ccn3": 792,
+    "region": "Asia",
+    "latitude": 39,
+    "longitude": 35,
+    "languages": [
+      {
+        "id": 4092,
+        "name": "Turkish",
+        "isoCode": "tur"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "1b53b67f-815f-41dc-8304-3b244906644f",
+        "code": "TRY",
+        "name": "Turkish lira",
+        "symbol": "₺"
+      }
+    ]
+  },
+  {
+    "id": "170e0414-ef66-4fa8-88ac-cd4c2419b5d9",
+    "name": "Mongolia",
+    "cca2": "MN",
+    "cca3": "MNG",
+    "ccn3": 496,
+    "region": "Asia",
+    "latitude": 46,
+    "longitude": 105,
+    "languages": [
+      {
+        "id": 3804,
+        "name": "Mongolian",
+        "isoCode": "mon"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "1d532376-89db-4841-aae5-6de12cbfb30f",
+        "code": "MNT",
+        "name": "Mongolian tögrög",
+        "symbol": "₮"
+      }
+    ]
+  },
+  {
+    "id": "20dab4cf-0228-4bee-86a7-5ecab072cb5f",
+    "name": "Federation of Saint Christopher and Nevis",
+    "cca2": "KN",
+    "cca3": "KNA",
+    "ccn3": 659,
+    "region": "Americas",
+    "latitude": 17.33333333,
+    "longitude": -62.75,
+    "languages": [
+      {
+        "id": 3815,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "d8a9dc33-4a93-4475-9321-d0cf2c97203c",
+        "code": "XCD",
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "5aa13d0f-5df9-4217-ae25-2b8dd30dcbc4",
+    "name": "Saint Vincent and the Grenadines",
+    "cca2": "VC",
+    "cca3": "VCT",
+    "ccn3": 670,
+    "region": "Americas",
+    "latitude": 13.25,
+    "longitude": -61.2,
+    "languages": [
+      {
+        "id": 3824,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "a6fcab97-a997-4670-bb0a-45cce89a77d4",
+        "code": "XCD",
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "3fbfa365-b855-4d11-8bc5-dd66b45c7fd2",
+    "name": "Isle of Man",
+    "cca2": "IM",
+    "cca3": "IMN",
+    "ccn3": 833,
+    "region": "Europe",
+    "latitude": 54.25,
+    "longitude": -4.5,
+    "languages": [
+      {
+        "id": 3827,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3832,
+        "name": "Manx",
+        "isoCode": "glv"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "36e70da1-bf47-43a8-b0c7-0044a4c1e047",
+        "code": "IMP",
+        "name": "Manx pound",
+        "symbol": "£"
+      },
+      {
+        "id": "884b592a-f75d-40d3-846e-1bf87a1c0e8c",
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "id": "75fc4714-f547-4b1a-b676-a14dc78fc6a6",
+    "name": "Republic of Ghana",
+    "cca2": "GH",
+    "cca3": "GHA",
+    "ccn3": 288,
+    "region": "Africa",
+    "latitude": 8,
+    "longitude": -2,
+    "languages": [
+      {
+        "id": 3872,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "cecd3494-2a67-4640-8d70-a1f13c9ea520",
+        "code": "GHS",
+        "name": "Ghanaian cedi",
+        "symbol": "₵"
+      }
+    ]
+  },
+  {
+    "id": "b9780cd1-f26a-4c7c-8d4a-e1003af00677",
+    "name": "Grand Duchy of Luxembourg",
+    "cca2": "LU",
+    "cca3": "LUX",
+    "ccn3": 442,
+    "region": "Europe",
+    "latitude": 49.75,
+    "longitude": 6.16666666,
+    "languages": [
+      {
+        "id": 3883,
+        "name": "German",
+        "isoCode": "deu"
+      },
+      {
+        "id": 3874,
+        "name": "French",
+        "isoCode": "fra"
+      },
+      {
+        "id": 3879,
+        "name": "Luxembourgish",
+        "isoCode": "ltz"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "7bc6e7bc-625b-4c4f-9938-73201e08552b",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "3de8c84a-719e-4d77-a8f5-33dc3ae5d877",
+    "name": "Kingdom of Belgium",
+    "cca2": "BE",
+    "cca3": "BEL",
+    "ccn3": 56,
+    "region": "Europe",
+    "latitude": 50.83333333,
+    "longitude": 4,
+    "languages": [
+      {
+        "id": 3895,
+        "name": "Dutch",
+        "isoCode": "nld"
+      },
+      {
+        "id": 3888,
+        "name": "French",
+        "isoCode": "fra"
+      },
+      {
+        "id": 3892,
+        "name": "German",
+        "isoCode": "deu"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "e61d6bb3-ab51-4b4b-8850-5495b7315156",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "d72237f7-ef51-4546-b42b-9bbc3a2c12c2",
+    "name": "Czech Republic",
+    "cca2": "CZ",
+    "cca3": "CZE",
+    "ccn3": 203,
+    "region": "Europe",
+    "latitude": 49.75,
+    "longitude": 15.5,
+    "languages": [
+      {
+        "id": 3897,
+        "name": "Slovak",
+        "isoCode": "slk"
+      },
+      {
+        "id": 3908,
+        "name": "Czech",
+        "isoCode": "ces"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "45ede826-732f-45d1-8755-7b1ac2de7ec8",
+        "code": "CZK",
+        "name": "Czech koruna",
+        "symbol": "Kč"
+      }
+    ]
+  },
+  {
+    "id": "601ffcc0-cc51-423d-864e-406a1e47e4eb",
+    "name": "State of Kuwait",
+    "cca2": "KW",
+    "cca3": "KWT",
+    "ccn3": 414,
+    "region": "Asia",
+    "latitude": 29.5,
+    "longitude": 45.75,
+    "languages": [
+      {
+        "id": 3911,
+        "name": "Arabic",
+        "isoCode": "ara"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "97d77681-ae88-45c7-ac20-4b1228739cc9",
+        "code": "KWD",
+        "name": "Kuwaiti dinar",
+        "symbol": "د.ك"
+      }
+    ]
+  },
+  {
+    "id": "4ecc5f3e-ffe4-483d-8d9c-c9d9002eff0f",
+    "name": "Republic of Mozambique",
+    "cca2": "MZ",
+    "cca3": "MOZ",
+    "ccn3": 508,
+    "region": "Africa",
+    "latitude": -18.25,
+    "longitude": 35,
+    "languages": [
+      {
+        "id": 3925,
+        "name": "Portuguese",
+        "isoCode": "por"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "180becc3-f165-44c3-b5d7-1f863ca08ca8",
+        "code": "MZN",
+        "name": "Mozambican metical",
+        "symbol": "MT"
+      }
+    ]
+  },
+  {
+    "id": "f81e7f1e-96de-4279-b01e-faeeb90f7062",
+    "name": "Portuguese Republic",
+    "cca2": "PT",
+    "cca3": "PRT",
+    "ccn3": 620,
+    "region": "Europe",
+    "latitude": 39.5,
+    "longitude": -8,
+    "languages": [
+      {
+        "id": 3942,
+        "name": "Portuguese",
+        "isoCode": "por"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "d9eca3b3-6198-4609-9526-91da1d81f17f",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "dfb5413e-1b74-423c-b01e-f5504971ae5d",
+    "name": "Faroe Islands",
+    "cca2": "FO",
+    "cca3": "FRO",
+    "ccn3": 234,
+    "region": "Europe",
+    "latitude": 62,
+    "longitude": -7,
+    "languages": [
+      {
+        "id": 3950,
+        "name": "Faroese",
+        "isoCode": "fao"
+      },
+      {
+        "id": 3980,
+        "name": "Danish",
+        "isoCode": "dan"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "2b935b05-c92b-4d9f-b8a0-7da2c422551c",
+        "code": "FOK",
+        "name": "Faroese króna",
+        "symbol": "kr"
+      },
+      {
+        "id": "83ab4a1e-563b-406a-bf29-8b8af7e0cf2a",
+        "code": "DKK",
+        "name": "Danish krone",
+        "symbol": "kr"
+      }
+    ]
+  },
+  {
+    "id": "8cffe39b-1ff5-4a80-b96e-409f06d8cc94",
+    "name": "Democratic Socialist Republic of Sri Lanka",
+    "cca2": "LK",
+    "cca3": "LKA",
+    "ccn3": 144,
+    "region": "Asia",
+    "latitude": 7,
+    "longitude": 81,
+    "languages": [
+      {
+        "id": 3957,
+        "name": "Tamil",
+        "isoCode": "tam"
+      },
+      {
+        "id": 3961,
+        "name": "Sinhala",
+        "isoCode": "sin"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "88b453ac-8396-4131-9ce8-7787749b1453",
+        "code": "LKR",
+        "name": "Sri Lankan rupee",
+        "symbol": "Rs  රු"
+      }
+    ]
+  },
+  {
+    "id": "eb45fcd7-954a-4bf9-84bb-6981f3fb2028",
+    "name": "Democratic People's Republic of Korea",
+    "cca2": "KP",
+    "cca3": "PRK",
+    "ccn3": 408,
+    "region": "Asia",
+    "latitude": 40,
+    "longitude": 127,
+    "languages": [
+      {
+        "id": 3967,
+        "name": "Korean",
+        "isoCode": "kor"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "404553a5-468a-449d-a8a5-9bc66f892f82",
+        "code": "KPW",
+        "name": "North Korean won",
+        "symbol": "₩"
+      }
+    ]
+  },
+  {
+    "id": "3a911552-efab-40d0-ba8c-447366713819",
+    "name": "Belize",
+    "cca2": "BZ",
+    "cca3": "BLZ",
+    "ccn3": 84,
+    "region": "Americas",
+    "latitude": 17.25,
+    "longitude": -88.75,
+    "languages": [
+      {
+        "id": 3989,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3983,
+        "name": "Belizean Creole",
+        "isoCode": "bjz"
+      },
+      {
+        "id": 3994,
+        "name": "Spanish",
+        "isoCode": "spa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "ad6a53c3-b09b-4804-97e9-834659b8ff3a",
+        "code": "BZD",
+        "name": "Belize dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "e95de211-d8c4-41b0-b33b-3019ef4f1d68",
+    "name": "Saint Lucia",
+    "cca2": "LC",
+    "cca3": "LCA",
+    "ccn3": 662,
+    "region": "Americas",
+    "latitude": 13.88333333,
+    "longitude": -60.96666666,
+    "languages": [
+      {
+        "id": 4014,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "b7be9efa-5ca7-4387-86fd-a89e72c723ee",
+        "code": "XCD",
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "0d0c283a-aef9-47b7-9a16-54b74fba0658",
+    "name": "United States of America",
+    "cca2": "US",
+    "cca3": "USA",
+    "ccn3": 840,
+    "region": "Americas",
+    "latitude": 38,
+    "longitude": -97,
+    "languages": [
+      {
+        "id": 4031,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "326779d8-a5c5-4368-b089-28a911ac7c63",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "92e23b12-1894-4c4d-a043-d8213402eaf8",
+    "name": "Republic of Lithuania",
+    "cca2": "LT",
+    "cca3": "LTU",
+    "ccn3": 440,
+    "region": "Europe",
+    "latitude": 56,
+    "longitude": 24,
+    "languages": [
+      {
+        "id": 4041,
+        "name": "Lithuanian",
+        "isoCode": "lit"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "66c4b566-c6bb-4b96-afc1-8d2a7020d0e6",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "7f0be053-fb69-41c1-85b2-1ae6916543eb",
+    "name": "Republic of China (Taiwan)",
+    "cca2": "TW",
+    "cca3": "TWN",
+    "ccn3": 158,
+    "region": "Asia",
+    "latitude": 23.5,
+    "longitude": 121,
+    "languages": [
+      {
+        "id": 4049,
+        "name": "Chinese",
+        "isoCode": "zho"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "b8cef058-36dc-49d9-930e-679fc334d1bd",
+        "code": "TWD",
+        "name": "New Taiwan dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "18511c20-263d-46e2-94f6-e312fba21935",
+    "name": "Bailiwick of Guernsey",
+    "cca2": "GG",
+    "cca3": "GGY",
+    "ccn3": 831,
+    "region": "Europe",
+    "latitude": 49.46666666,
+    "longitude": -2.58333333,
+    "languages": [
+      {
+        "id": 4070,
+        "name": "French",
+        "isoCode": "fra"
+      },
+      {
+        "id": 4073,
+        "name": "Guernésiais",
+        "isoCode": "nfr"
+      },
+      {
+        "id": 4072,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "8b47b108-bce0-47c7-87ea-a6c928fc0541",
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      },
+      {
+        "id": "4ec97492-6b0a-4d05-afd6-82f6a6f2b8c8",
+        "code": "GGP",
+        "name": "Guernsey pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "id": "0ce2406e-b38b-4091-8798-9e5316b52602",
+    "name": "New Zealand",
+    "cca2": "NZ",
+    "cca3": "NZL",
+    "ccn3": 554,
+    "region": "Oceania",
+    "latitude": -41,
+    "longitude": 174,
+    "languages": [
+      {
+        "id": 4087,
+        "name": "New Zealand Sign Language",
+        "isoCode": "nzs"
+      },
+      {
+        "id": 4089,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 4091,
+        "name": "Māori",
+        "isoCode": "mri"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "510dea7d-a0c5-4c57-843f-7a97ef3abae9",
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "3a7fd2e4-4fb7-4e87-86e1-c756fc359311",
+    "name": "New Caledonia",
+    "cca2": "NC",
+    "cca3": "NCL",
+    "ccn3": 540,
+    "region": "Oceania",
+    "latitude": -21.5,
+    "longitude": 165.5,
+    "languages": [
+      {
+        "id": 3807,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "145a05e1-e109-4d13-8ab0-baf889f323c3",
+        "code": "XPF",
+        "name": "CFP franc",
+        "symbol": "₣"
+      }
+    ]
+  },
+  {
+    "id": "e9275218-4ff0-44d9-9e7f-5089d47d74bb",
+    "name": "United Arab Emirates",
+    "cca2": "AE",
+    "cca3": "ARE",
+    "ccn3": 784,
+    "region": "Asia",
+    "latitude": 24,
+    "longitude": 54,
+    "languages": [
+      {
+        "id": 3817,
+        "name": "Arabic",
+        "isoCode": "ara"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "1a41c6a3-af4e-4174-bbc5-b9bb9cef9c37",
+        "code": "AED",
+        "name": "United Arab Emirates dirham",
+        "symbol": "د.إ"
+      }
+    ]
+  },
+  {
+    "id": "8fa7651f-b2f7-41af-87d6-e3a38b95a00b",
+    "name": "Republic of Equatorial Guinea",
+    "cca2": "GQ",
+    "cca3": "GNQ",
+    "ccn3": 226,
+    "region": "Africa",
+    "latitude": 2,
+    "longitude": 10,
+    "languages": [
+      {
+        "id": 3826,
+        "name": "Spanish",
+        "isoCode": "spa"
+      },
+      {
+        "id": 3837,
+        "name": "Portuguese",
+        "isoCode": "por"
+      },
+      {
+        "id": 3838,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "1dde10e7-f4b9-4cce-b57b-077dead2f1b4",
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "544722dc-90c6-409d-a586-b6724c1c380d",
+    "name": "Federal Republic of Germany",
+    "cca2": "DE",
+    "cca3": "DEU",
+    "ccn3": 276,
+    "region": "Europe",
+    "latitude": 51,
+    "longitude": 9,
+    "languages": [
+      {
+        "id": 3851,
+        "name": "German",
+        "isoCode": "deu"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "62e5035d-7f7c-42a9-859f-409b90c539a0",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "953690cc-de4b-4af1-ba77-b6303f2e4626",
+    "name": "Territory of Christmas Island",
+    "cca2": "CX",
+    "cca3": "CXR",
+    "ccn3": 162,
+    "region": "Oceania",
+    "latitude": -10.5,
+    "longitude": 105.66666666,
+    "languages": [
+      {
+        "id": 3867,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "f8324e6f-9919-4272-9b04-95b56d5b97b1",
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "16cee33e-8168-48d7-94c0-856936f28aeb",
+    "name": "Republic of Kazakhstan",
+    "cca2": "KZ",
+    "cca3": "KAZ",
+    "ccn3": 398,
+    "region": "Asia",
+    "latitude": 48.0196,
+    "longitude": 66.9237,
+    "languages": [
+      {
+        "id": 3881,
+        "name": "Kazakh",
+        "isoCode": "kaz"
+      },
+      {
+        "id": 3890,
+        "name": "Russian",
+        "isoCode": "rus"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "2019d930-d08c-43fb-92db-9b9698314312",
+        "code": "KZT",
+        "name": "Kazakhstani tenge",
+        "symbol": "₸"
+      }
+    ]
+  },
+  {
+    "id": "6edfad59-7ec7-4394-800b-abdfa7db4906",
+    "name": "Kingdom of Bhutan",
+    "cca2": "BT",
+    "cca3": "BTN",
+    "ccn3": 64,
+    "region": "Asia",
+    "latitude": 27.5,
+    "longitude": 90.5,
+    "languages": [
+      {
+        "id": 3902,
+        "name": "Dzongkha",
+        "isoCode": "dzo"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "88b3fb5f-9bc7-4039-8178-4dc57b99a164",
+        "code": "INR",
+        "name": "Indian rupee",
+        "symbol": "₹"
+      },
+      {
+        "id": "28c68eb0-693f-444b-a2d6-2cee9265ae47",
+        "code": "BTN",
+        "name": "Bhutanese ngultrum",
+        "symbol": "Nu."
+      }
+    ]
+  },
+  {
+    "id": "32321bd2-a897-47fc-8dae-87b8bd8b8763",
+    "name": "Republic of Ireland",
+    "cca2": "IE",
+    "cca3": "IRL",
+    "ccn3": 372,
+    "region": "Europe",
+    "latitude": 53,
+    "longitude": -8,
+    "languages": [
+      {
+        "id": 3922,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3931,
+        "name": "Irish",
+        "isoCode": "gle"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "5d037caa-a39f-4461-bea0-e88f0d51e508",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "489995cd-a048-4948-8563-469e4b75e670",
+    "name": "Kingdom of the Netherlands",
+    "cca2": "NL",
+    "cca3": "NLD",
+    "ccn3": 528,
+    "region": "Europe",
+    "latitude": 52.5,
+    "longitude": 5.75,
+    "languages": [
+      {
+        "id": 3932,
+        "name": "Dutch",
+        "isoCode": "nld"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "87c3ce66-4e7f-404a-92cd-3105f70cd385",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "dbbae9b0-de34-4dc9-9003-ac87ca37a5fe",
+    "name": "Saint Pierre and Miquelon",
+    "cca2": "PM",
+    "cca3": "SPM",
+    "ccn3": 666,
+    "region": "Americas",
+    "latitude": 46.83333333,
+    "longitude": -56.33333333,
+    "languages": [
+      {
+        "id": 3948,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "1a4dbba9-f184-46a1-b4ab-f09b002a112a",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "85c037ad-f6b2-4753-b6a4-523f726e1ee6",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "cca2": "BQ",
+    "cca3": "BES",
+    "ccn3": 535,
+    "region": "Americas",
+    "latitude": 12.18,
+    "longitude": -68.25,
+    "languages": [
+      {
+        "id": 3972,
+        "name": "Dutch",
+        "isoCode": "nld"
+      },
+      {
+        "id": 3954,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3970,
+        "name": "Papiamento",
+        "isoCode": "pap"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "e5c13736-0bf5-47d5-8179-55a8be3645ec",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "3617a026-3704-4470-8259-81a15eb3a13c",
+    "name": "Republic of Honduras",
+    "cca2": "HN",
+    "cca3": "HND",
+    "ccn3": 340,
+    "region": "Americas",
+    "latitude": 15,
+    "longitude": -86.5,
+    "languages": [
+      {
+        "id": 3969,
+        "name": "Spanish",
+        "isoCode": "spa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "6aabe90b-64a8-4638-b9f0-9f04db81943f",
+        "code": "HNL",
+        "name": "Honduran lempira",
+        "symbol": "L"
+      }
+    ]
+  },
+  {
+    "id": "513303d4-d782-4587-971a-27a70d5dc0f9",
+    "name": "Department of Mayotte",
+    "cca2": "YT",
+    "cca3": "MYT",
+    "ccn3": 175,
+    "region": "Africa",
+    "latitude": -12.83333333,
+    "longitude": 45.16666666,
+    "languages": [
+      {
+        "id": 3978,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "f1cc4c51-1686-4f58-9699-9eb01ef01d10",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "b0705272-ba63-4994-988e-8646beae1f41",
+    "name": "Kingdom of Lesotho",
+    "cca2": "LS",
+    "cca3": "LSO",
+    "ccn3": 426,
+    "region": "Africa",
+    "latitude": -29.5,
+    "longitude": 28.5,
+    "languages": [
+      {
+        "id": 4011,
+        "name": "Sotho",
+        "isoCode": "sot"
+      },
+      {
+        "id": 4018,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "4b1c9b24-c3a0-4c06-b205-22eebf492007",
+        "code": "LSL",
+        "name": "Lesotho loti",
+        "symbol": "L"
+      },
+      {
+        "id": "dd23cdb1-7b7c-4fec-913f-5f6cbf40ac20",
+        "code": "ZAR",
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    ]
+  },
+  {
+    "id": "01c38ea4-d6f4-40c4-84f5-cb681e8f163c",
+    "name": "Republic of Benin",
+    "cca2": "BJ",
+    "cca3": "BEN",
+    "ccn3": 204,
+    "region": "Africa",
+    "latitude": 9.5,
+    "longitude": 2.25,
+    "languages": [
+      {
+        "id": 4023,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "aac3e9ec-a3d7-441f-9413-f334cff8394f",
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "63173111-eb7d-4f20-9cf4-cb209ed7472d",
+    "name": "Republic of Fiji",
+    "cca2": "FJ",
+    "cca3": "FJI",
+    "ccn3": 242,
+    "region": "Oceania",
+    "latitude": 17.7134,
+    "longitude": 178.065,
+    "languages": [
+      {
+        "id": 4033,
+        "name": "Fiji Hindi",
+        "isoCode": "hif"
+      },
+      {
+        "id": 4024,
+        "name": "Fijian",
+        "isoCode": "fij"
+      },
+      {
+        "id": 4028,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "96e44ead-24aa-4d64-bd75-d6bd2feeab95",
+        "code": "FJD",
+        "name": "Fijian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "3a094615-2b86-4cbd-b346-926fb105b5af",
+    "name": "Republic of Azerbaijan",
+    "cca2": "AZ",
+    "cca3": "AZE",
+    "ccn3": 31,
+    "region": "Asia",
+    "latitude": 40.5,
+    "longitude": 47.5,
+    "languages": [
+      {
+        "id": 4045,
+        "name": "Russian",
+        "isoCode": "rus"
+      },
+      {
+        "id": 4039,
+        "name": "Azerbaijani",
+        "isoCode": "aze"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "9e4ceaa2-3888-4f83-ac44-97cdb0a5f7dd",
+        "code": "AZN",
+        "name": "Azerbaijani manat",
+        "symbol": "₼"
+      }
+    ]
+  },
+  {
+    "id": "3bd75f28-4a23-4e15-b75c-726ccfdcee67",
+    "name": "Republic of Nauru",
+    "cca2": "NR",
+    "cca3": "NRU",
+    "ccn3": 520,
+    "region": "Oceania",
+    "latitude": -0.53333333,
+    "longitude": 166.91666666,
+    "languages": [
+      {
+        "id": 4062,
+        "name": "Nauru",
+        "isoCode": "nau"
+      },
+      {
+        "id": 4055,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "543d8e92-7eec-4703-a023-018733a3e760",
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "2cd0184f-b756-4df8-b744-4b63ee31a67c",
+    "name": "Republic of Costa Rica",
+    "cca2": "CR",
+    "cca3": "CRI",
+    "ccn3": 188,
+    "region": "Americas",
+    "latitude": 10,
+    "longitude": -84,
+    "languages": [
+      {
+        "id": 4075,
+        "name": "Spanish",
+        "isoCode": "spa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "bdb24c90-3c10-4fa9-b467-af1b3860bb6a",
+        "code": "CRC",
+        "name": "Costa Rican colón",
+        "symbol": "₡"
+      }
+    ]
+  },
+  {
+    "id": "b570c0a8-7dac-4d78-8cfa-51698526ddd9",
+    "name": "Independent State of Samoa",
+    "cca2": "WS",
+    "cca3": "WSM",
+    "ccn3": 882,
+    "region": "Oceania",
+    "latitude": -13.58333333,
+    "longitude": -172.33333333,
+    "languages": [
+      {
+        "id": 4084,
+        "name": "Samoan",
+        "isoCode": "smo"
+      },
+      {
+        "id": 4085,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "5275cb43-d1ab-4274-8fbf-945501ec90ff",
+        "code": "WST",
+        "name": "Samoan tālā",
+        "symbol": "T"
+      }
+    ]
+  },
+  {
+    "id": "2ba7eb2e-6947-4347-af7c-c99d662f7174",
+    "name": "Cayman Islands",
+    "cca2": "KY",
+    "cca3": "CYM",
+    "ccn3": 136,
+    "region": "Americas",
+    "latitude": 19.3133,
+    "longitude": 81.2546,
+    "languages": [
+      {
+        "id": 4098,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "d46c666a-a90c-4e6c-bdf2-794f37b5fd7e",
+        "code": "KYD",
+        "name": "Cayman Islands dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "64a13df7-4e19-4f20-8ec8-3ae2a51c5ed0",
+    "name": "Republic of the Union of Myanmar",
+    "cca2": "MM",
+    "cca3": "MMR",
+    "ccn3": 104,
+    "region": "Asia",
+    "latitude": 22,
+    "longitude": 98,
+    "languages": [
+      {
+        "id": 3810,
+        "name": "Burmese",
+        "isoCode": "mya"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "3cdd55da-58f0-4e40-9f57-eb1bdfea28be",
+        "code": "MMK",
+        "name": "Burmese kyat",
+        "symbol": "Ks"
+      }
+    ]
+  },
+  {
+    "id": "3b8a33dc-cb43-4a60-9811-e9bf5e3e2050",
+    "name": "American Samoa",
+    "cca2": "AS",
+    "cca3": "ASM",
+    "ccn3": 16,
+    "region": "Oceania",
+    "latitude": -14.33333333,
+    "longitude": -170,
+    "languages": [
+      {
+        "id": 3820,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3825,
+        "name": "Samoan",
+        "isoCode": "smo"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "69d0e2a8-0f71-4062-8d85-bfc9506c6367",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "010f49c5-7a01-4c37-8625-469960798ec5",
+    "name": "Aruba",
+    "cca2": "AW",
+    "cca3": "ABW",
+    "ccn3": 533,
+    "region": "Americas",
+    "latitude": 12.5,
+    "longitude": -69.96666666,
+    "languages": [
+      {
+        "id": 3833,
+        "name": "Dutch",
+        "isoCode": "nld"
+      },
+      {
+        "id": 3834,
+        "name": "Papiamento",
+        "isoCode": "pap"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "3950bdb0-336f-419c-9045-a36c17bc749a",
+        "code": "AWG",
+        "name": "Aruban florin",
+        "symbol": "ƒ"
+      }
+    ]
+  },
+  {
+    "id": "77f9ea61-8e43-41a3-84d1-72ba5e306212",
+    "name": "Republic of Tajikistan",
+    "cca2": "TJ",
+    "cca3": "TJK",
+    "ccn3": 762,
+    "region": "Asia",
+    "latitude": 39,
+    "longitude": 71,
+    "languages": [
+      {
+        "id": 3842,
+        "name": "Tajik",
+        "isoCode": "tgk"
+      },
+      {
+        "id": 3859,
+        "name": "Russian",
+        "isoCode": "rus"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "532d2ee0-d9dc-4200-b982-0d7412189bcd",
+        "code": "TJS",
+        "name": "Tajikistani somoni",
+        "symbol": "ЅМ"
+      }
+    ]
+  },
+  {
+    "id": "9fa8adf3-6329-476b-b161-cbc332ae4bf9",
+    "name": "Federal Republic of Nigeria",
+    "cca2": "NG",
+    "cca3": "NGA",
+    "ccn3": 566,
+    "region": "Africa",
+    "latitude": 10,
+    "longitude": 8,
+    "languages": [
+      {
+        "id": 3891,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "1296f5a0-1a34-42d5-a9ea-040f71c64715",
+        "code": "NGN",
+        "name": "Nigerian naira",
+        "symbol": "₦"
+      }
+    ]
+  },
+  {
+    "id": "fdb14f31-d038-4101-bf72-426616684c47",
+    "name": "Republic of Bulgaria",
+    "cca2": "BG",
+    "cca3": "BGR",
+    "ccn3": 100,
+    "region": "Europe",
+    "latitude": 43,
+    "longitude": 25,
+    "languages": [
+      {
+        "id": 3894,
+        "name": "Bulgarian",
+        "isoCode": "bul"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "9ffa0ce2-da8e-4abd-907a-5fbea9f50641",
+        "code": "BGN",
+        "name": "Bulgarian lev",
+        "symbol": "лв"
+      }
+    ]
+  },
+  {
+    "id": "1a2277df-08cf-4c8c-bf2a-6f4c35deeec8",
+    "name": "Italian Republic",
+    "cca2": "IT",
+    "cca3": "ITA",
+    "ccn3": 380,
+    "region": "Europe",
+    "latitude": 42.83333333,
+    "longitude": 12.83333333,
+    "languages": [
+      {
+        "id": 3906,
+        "name": "Italian",
+        "isoCode": "ita"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "3bdd8944-6dd7-4846-b281-a1fcca02243b",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "cfe306d4-7709-4dab-85c2-d90290377c6c",
+    "name": "Cook Islands",
+    "cca2": "CK",
+    "cca3": "COK",
+    "ccn3": 184,
+    "region": "Oceania",
+    "latitude": -21.23333333,
+    "longitude": -159.76666666,
+    "languages": [
+      {
+        "id": 3917,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3919,
+        "name": "Cook Islands Māori",
+        "isoCode": "rar"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "9fd40b23-81fc-44e1-9460-6b10260497fb",
+        "code": "CKD",
+        "name": "Cook Islands dollar",
+        "symbol": "$"
+      },
+      {
+        "id": "4fe1bc6a-7cb2-4346-aa85-61a622a2424b",
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "2b4b02a5-f338-4988-a615-f61235c36a8a",
+    "name": "Republic of Chile",
+    "cca2": "CL",
+    "cca3": "CHL",
+    "ccn3": 152,
+    "region": "Americas",
+    "latitude": -30,
+    "longitude": -71,
+    "languages": [
+      {
+        "id": 3926,
+        "name": "Spanish",
+        "isoCode": "spa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "3f726cbe-70f3-46c6-ae25-dc80de59fce2",
+        "code": "CLP",
+        "name": "Chilean peso",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "a40683f1-89e8-446d-a3ee-29d770fe5e4b",
+    "name": "Territory of the Cocos (Keeling) Islands",
+    "cca2": "CC",
+    "cca3": "CCK",
+    "ccn3": 166,
+    "region": "Oceania",
+    "latitude": 12.1642,
+    "longitude": 96.871,
+    "languages": [
+      {
+        "id": 3934,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "37dde482-f381-415d-b9d5-c4c6753d56fb",
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "418c3668-b386-4493-8810-0e78d1b2b752",
+    "name": "Republic of San Marino",
+    "cca2": "SM",
+    "cca3": "SMR",
+    "ccn3": 674,
+    "region": "Europe",
+    "latitude": 43.76666666,
+    "longitude": 12.41666666,
+    "languages": [
+      {
+        "id": 3976,
+        "name": "Italian",
+        "isoCode": "ita"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "6a2559c8-7370-4039-ade2-7453300c684e",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "57e5fe95-34eb-4792-8ebe-13b7803fa633",
+    "name": "Montserrat",
+    "cca2": "MS",
+    "cca3": "MSR",
+    "ccn3": 500,
+    "region": "Americas",
+    "latitude": 16.75,
+    "longitude": -62.2,
+    "languages": [
+      {
+        "id": 3966,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "4e9476f5-1f0f-4b9a-b7e0-f77c5fbcf3d7",
+        "code": "XCD",
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "e122450f-f35a-4f48-b7b3-ac6188574397",
+    "name": "Republic of Trinidad and Tobago",
+    "cca2": "TT",
+    "cca3": "TTO",
+    "ccn3": 780,
+    "region": "Americas",
+    "latitude": 10.6918,
+    "longitude": 61.2225,
+    "languages": [
+      {
+        "id": 3977,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "d7a6ec2d-0e42-4237-9b57-ac1de9ebac21",
+        "code": "TTD",
+        "name": "Trinidad and Tobago dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "6ef365a8-7343-430e-bde5-3a9c82e98c10",
+    "name": "Republic of Zambia",
+    "cca2": "ZM",
+    "cca3": "ZMB",
+    "ccn3": 894,
+    "region": "Africa",
+    "latitude": -15,
+    "longitude": 30,
+    "languages": [
+      {
+        "id": 3993,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "6c79e0b7-9a7a-4530-9675-ca1604210e23",
+        "code": "ZMW",
+        "name": "Zambian kwacha",
+        "symbol": "ZK"
+      }
+    ]
+  },
+  {
+    "id": "1678bfac-d7fe-4391-bafe-44f7aa2504bc",
+    "name": "Independent State of Papua New Guinea",
+    "cca2": "PG",
+    "cca3": "PNG",
+    "ccn3": 598,
+    "region": "Oceania",
+    "latitude": -6,
+    "longitude": 147,
+    "languages": [
+      {
+        "id": 4000,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 4001,
+        "name": "Tok Pisin",
+        "isoCode": "tpi"
+      },
+      {
+        "id": 3995,
+        "name": "Hiri Motu",
+        "isoCode": "hmo"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "e1782b31-de2e-4476-83de-9d028a9d4eb5",
+        "code": "PGK",
+        "name": "Papua New Guinean kina",
+        "symbol": "K"
+      }
+    ]
+  },
+  {
+    "id": "9960d592-5e56-4fb3-85a8-4392f31d24e2",
+    "name": "Republic of Croatia",
+    "cca2": "HR",
+    "cca3": "HRV",
+    "ccn3": 191,
+    "region": "Europe",
+    "latitude": 45.16666666,
+    "longitude": 15.5,
+    "languages": [
+      {
+        "id": 4032,
+        "name": "Croatian",
+        "isoCode": "hrv"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "ed0255f6-c38b-4ef2-bef5-a46a8d662f9d",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "ee542c9b-470a-48a9-a3b2-edb76a16b7e8",
+    "name": "Commonwealth of Dominica",
+    "cca2": "DM",
+    "cca3": "DMA",
+    "ccn3": 212,
+    "region": "Americas",
+    "latitude": 15.41666666,
+    "longitude": -61.33333333,
+    "languages": [
+      {
+        "id": 4042,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "05ecb6dd-942b-43ff-ba87-02edc8657dcf",
+        "code": "XCD",
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "fedc05c2-87d5-490c-ad0f-bc9b05892b46",
+    "name": "Republic of Palau",
+    "cca2": "PW",
+    "cca3": "PLW",
+    "ccn3": 585,
+    "region": "Oceania",
+    "latitude": 7.5,
+    "longitude": 134.5,
+    "languages": [
+      {
+        "id": 4058,
+        "name": "Palauan",
+        "isoCode": "pau"
+      },
+      {
+        "id": 4060,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "cb0c2ce6-a92d-408d-b3d3-89c8dd5c14ae",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "1ebacfe1-c8db-4d6f-bf87-5399875a9e42",
+    "name": "Hashemite Kingdom of Jordan",
+    "cca2": "JO",
+    "cca3": "JOR",
+    "ccn3": 400,
+    "region": "Asia",
+    "latitude": 31,
+    "longitude": 36,
+    "languages": [
+      {
+        "id": 4074,
+        "name": "Arabic",
+        "isoCode": "ara"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "611d9f5a-6985-4583-af1b-cbd8a542af4d",
+        "code": "JOD",
+        "name": "Jordanian dinar",
+        "symbol": "د.ا"
+      }
+    ]
+  },
+  {
+    "id": "c04f0522-5ec2-4d0a-b986-66046f43e179",
+    "name": "Islamic Republic of Mauritania",
+    "cca2": "MR",
+    "cca3": "MRT",
+    "ccn3": 478,
+    "region": "Africa",
+    "latitude": 20,
+    "longitude": -12,
+    "languages": [
+      {
+        "id": 4097,
+        "name": "Arabic",
+        "isoCode": "ara"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "3798ecfb-39e9-451d-ba9f-768754ff45a7",
+        "code": "MRU",
+        "name": "Mauritanian ouguiya",
+        "symbol": "UM"
+      }
+    ]
+  },
+  {
+    "id": "3d27a316-9274-4123-b3f8-267e6d8a24b8",
+    "name": "Republic of the Sudan",
+    "cca2": "SD",
+    "cca3": "SDN",
+    "ccn3": 729,
+    "region": "Africa",
+    "latitude": 15,
+    "longitude": 30,
+    "languages": [
+      {
+        "id": 3806,
+        "name": "Arabic",
+        "isoCode": "ara"
+      },
+      {
+        "id": 3811,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "6a02a822-0c7b-4258-a81d-eba04af9af63",
+        "code": "SDG",
+        "name": "Sudanese pound",
+        "symbol": null
+      }
+    ]
+  },
+  {
+    "id": "eea088e6-c7ef-4532-81f0-e4e6a65a4ef3",
+    "name": "Republic of North Macedonia",
+    "cca2": "MK",
+    "cca3": "MKD",
+    "ccn3": 807,
+    "region": "Europe",
+    "latitude": 41.83333333,
+    "longitude": 22,
+    "languages": [
+      {
+        "id": 3803,
+        "name": "Macedonian",
+        "isoCode": "mkd"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "fcf8e963-f083-4ad7-89a0-586e63733f63",
+        "code": "MKD",
+        "name": "denar",
+        "symbol": "den"
+      }
+    ]
+  },
+  {
+    "id": "77bba24c-1c81-440d-a0c5-ae2f9d278281",
+    "name": "Islamic Republic of Pakistan",
+    "cca2": "PK",
+    "cca3": "PAK",
+    "ccn3": 586,
+    "region": "Asia",
+    "latitude": 30,
+    "longitude": 70,
+    "languages": [
+      {
+        "id": 3829,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3831,
+        "name": "Urdu",
+        "isoCode": "urd"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "4718a9ef-e963-412c-a7f5-5f309ab53b47",
+        "code": "PKR",
+        "name": "Pakistani rupee",
+        "symbol": "₨"
+      }
+    ]
+  },
+  {
+    "id": "d680fe70-e6cd-4d46-8de2-1817c29a8d62",
+    "name": "Turkmenistan",
+    "cca2": "TM",
+    "cca3": "TKM",
+    "ccn3": 795,
+    "region": "Asia",
+    "latitude": 40,
+    "longitude": 60,
+    "languages": [
+      {
+        "id": 3835,
+        "name": "Russian",
+        "isoCode": "rus"
+      },
+      {
+        "id": 3840,
+        "name": "Turkmen",
+        "isoCode": "tuk"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "275df516-4f23-4dd4-9d45-9a7f5f7813e4",
+        "code": "TMT",
+        "name": "Turkmenistan manat",
+        "symbol": "m"
+      }
+    ]
+  },
+  {
+    "id": "1922a166-cf4c-4f31-bb51-f112a413a833",
+    "name": "Republic of the Philippines",
+    "cca2": "PH",
+    "cca3": "PHL",
+    "ccn3": 608,
+    "region": "Asia",
+    "latitude": 13,
+    "longitude": 122,
+    "languages": [
+      {
+        "id": 3848,
+        "name": "Filipino",
+        "isoCode": "fil"
+      },
+      {
+        "id": 3856,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "0570c03a-4d09-4829-bddc-7239a627ddb7",
+        "code": "PHP",
+        "name": "Philippine peso",
+        "symbol": "₱"
+      }
+    ]
+  },
+  {
+    "id": "02f7d769-b205-49cd-a7eb-975be6560192",
+    "name": "Republic of Belarus",
+    "cca2": "BY",
+    "cca3": "BLR",
+    "ccn3": 112,
+    "region": "Europe",
+    "latitude": 53,
+    "longitude": 28,
+    "languages": [
+      {
+        "id": 3861,
+        "name": "Belarusian",
+        "isoCode": "bel"
+      },
+      {
+        "id": 3875,
+        "name": "Russian",
+        "isoCode": "rus"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "c90e1069-4c65-4a24-a3e4-a71959f39b86",
+        "code": "BYN",
+        "name": "Belarusian ruble",
+        "symbol": "Br"
+      }
+    ]
+  },
+  {
+    "id": "c7a7c2c5-cef4-4b73-a8a4-3e910bbeebcd",
+    "name": "Principality of Liechtenstein",
+    "cca2": "LI",
+    "cca3": "LIE",
+    "ccn3": 438,
+    "region": "Europe",
+    "latitude": 47.26666666,
+    "longitude": 9.53333333,
+    "languages": [
+      {
+        "id": 3904,
+        "name": "German",
+        "isoCode": "deu"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "39f37117-c29e-4248-aa2c-79d3a7b5f211",
+        "code": "CHF",
+        "name": "Swiss franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "a0c8add4-86e7-4cec-8cdf-1e07e7e6fa56",
+    "name": "Argentine Republic",
+    "cca2": "AR",
+    "cca3": "ARG",
+    "ccn3": 32,
+    "region": "Americas",
+    "latitude": -34,
+    "longitude": -64,
+    "languages": [
+      {
+        "id": 3900,
+        "name": "Spanish",
+        "isoCode": "spa"
+      },
+      {
+        "id": 3907,
+        "name": "Guaraní",
+        "isoCode": "grn"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "2c7a3b15-96e0-4d93-bab8-c677edd6a08a",
+        "code": "ARS",
+        "name": "Argentine peso",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "2f934636-d1fb-4e5e-bcc6-7928a2e949ba",
+    "name": "Central African Republic",
+    "cca2": "CF",
+    "cca3": "CAF",
+    "ccn3": 140,
+    "region": "Africa",
+    "latitude": 7,
+    "longitude": 21,
+    "languages": [
+      {
+        "id": 3915,
+        "name": "French",
+        "isoCode": "fra"
+      },
+      {
+        "id": 3913,
+        "name": "Sango",
+        "isoCode": "sag"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "aa58b17d-87a7-4d20-9ce7-c4e9c39860e1",
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "8556e45d-1164-4232-b24b-f2e12048f74a",
+    "name": "Swiss Confederation",
+    "cca2": "CH",
+    "cca3": "CHE",
+    "ccn3": 756,
+    "region": "Europe",
+    "latitude": 47,
+    "longitude": 8,
+    "languages": [
+      {
+        "id": 3940,
+        "name": "French",
+        "isoCode": "fra"
+      },
+      {
+        "id": 3941,
+        "name": "Italian",
+        "isoCode": "ita"
+      },
+      {
+        "id": 3935,
+        "name": "Romansh",
+        "isoCode": "roh"
+      },
+      {
+        "id": 3930,
+        "name": "Swiss German",
+        "isoCode": "gsw"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "4c60d4d5-a0df-4fa4-be62-51a9598d8760",
+        "code": "CHF",
+        "name": "Swiss franc",
+        "symbol": "Fr."
+      }
+    ]
+  },
+  {
+    "id": "4024f20c-acbd-4478-827e-0e1267be284d",
+    "name": "Republic of Guinea",
+    "cca2": "GN",
+    "cca3": "GIN",
+    "ccn3": 324,
+    "region": "Africa",
+    "latitude": 11,
+    "longitude": -10,
+    "languages": [
+      {
+        "id": 3949,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "8bc575c5-df05-4611-ae66-73a1278909ed",
+        "code": "GNF",
+        "name": "Guinean franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "c205e756-17a1-4c3d-b7d9-2ac71de765fa",
+    "name": "Republic of Kenya",
+    "cca2": "KE",
+    "cca3": "KEN",
+    "ccn3": 404,
+    "region": "Africa",
+    "latitude": 1,
+    "longitude": 38,
+    "languages": [
+      {
+        "id": 3959,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3958,
+        "name": "Swahili",
+        "isoCode": "swa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "64cde8ec-7cb8-4f20-bf2c-cdf6a2919785",
+        "code": "KES",
+        "name": "Kenyan shilling",
+        "symbol": "Sh"
+      }
+    ]
+  },
+  {
+    "id": "89f5ba90-61f3-4857-8487-c4ba961b3306",
+    "name": "Kingdom of Thailand",
+    "cca2": "TH",
+    "cca3": "THA",
+    "ccn3": 764,
+    "region": "Asia",
+    "latitude": 15,
+    "longitude": 100,
+    "languages": [
+      {
+        "id": 3975,
+        "name": "Thai",
+        "isoCode": "tha"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "5dfbd1e6-e3fd-424b-92d4-6148d751e96d",
+        "code": "THB",
+        "name": "Thai baht",
+        "symbol": "฿"
+      }
+    ]
+  },
+  {
+    "id": "d165da79-98f6-4953-ae18-34b4c93f38fb",
+    "name": "Democratic Republic of São Tomé and Príncipe",
+    "cca2": "ST",
+    "cca3": "STP",
+    "ccn3": 678,
+    "region": "Africa",
+    "latitude": 1,
+    "longitude": 7,
+    "languages": [
+      {
+        "id": 3988,
+        "name": "Portuguese",
+        "isoCode": "por"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "a3cbf7c7-e01d-4177-bccd-c04aec4b2010",
+        "code": "STN",
+        "name": "São Tomé and Príncipe dobra",
+        "symbol": "Db"
+      }
+    ]
+  },
+  {
+    "id": "e67618e6-3d5a-46c6-916d-54d86b6fc4c6",
+    "name": "Republic of Madagascar",
+    "cca2": "MG",
+    "cca3": "MDG",
+    "ccn3": 450,
+    "region": "Africa",
+    "latitude": -20,
+    "longitude": 47,
+    "languages": [
+      {
+        "id": 4015,
+        "name": "French",
+        "isoCode": "fra"
+      },
+      {
+        "id": 4021,
+        "name": "Malagasy",
+        "isoCode": "mlg"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "67be240c-7e14-4b78-b1dc-d4e64f320a4c",
+        "code": "MGA",
+        "name": "Malagasy ariary",
+        "symbol": "Ar"
+      }
+    ]
+  },
+  {
+    "id": "50555f59-c09f-4d7f-9aac-2551e8df5d06",
+    "name": "Republic of Burundi",
+    "cca2": "BI",
+    "cca3": "BDI",
+    "ccn3": 108,
+    "region": "Africa",
+    "latitude": -3.5,
+    "longitude": 30,
+    "languages": [
+      {
+        "id": 4026,
+        "name": "French",
+        "isoCode": "fra"
+      },
+      {
+        "id": 4029,
+        "name": "Kirundi",
+        "isoCode": "run"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "471f7a42-2394-4a63-be4e-ef09dff8190d",
+        "code": "BIF",
+        "name": "Burundian franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "2338323e-4166-4ac9-9ab6-ce2ebf6ccdde",
+    "name": "Islamic Republic of Iran",
+    "cca2": "IR",
+    "cca3": "IRN",
+    "ccn3": 364,
+    "region": "Asia",
+    "latitude": 32,
+    "longitude": 53,
+    "languages": [
+      {
+        "id": 4040,
+        "name": "Persian (Farsi)",
+        "isoCode": "fas"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "25646594-5721-4a15-bf12-45226ddbbc6d",
+        "code": "IRR",
+        "name": "Iranian rial",
+        "symbol": "﷼"
+      }
+    ]
+  },
+  {
+    "id": "832c8449-3497-4907-9239-8cff0f8b0286",
+    "name": "Burkina Faso",
+    "cca2": "BF",
+    "cca3": "BFA",
+    "ccn3": 854,
+    "region": "Africa",
+    "latitude": 13,
+    "longitude": -2,
+    "languages": [
+      {
+        "id": 4047,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "48289e42-2c56-4bf4-8673-3b52df469d7c",
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "e6debb0c-57ee-403a-b3ee-e326c7c924f1",
+    "name": "Tuvalu",
+    "cca2": "TV",
+    "cca3": "TUV",
+    "ccn3": 798,
+    "region": "Oceania",
+    "latitude": -8,
+    "longitude": 178,
+    "languages": [
+      {
+        "id": 4067,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 4069,
+        "name": "Tuvaluan",
+        "isoCode": "tvl"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "827251a4-cf37-4dbc-a7ce-bafd020103e3",
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      {
+        "id": "b0ad8022-32ad-4719-894d-0c8b38ac8258",
+        "code": "TVD",
+        "name": "Tuvaluan dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "e3e244ea-10fe-4236-a103-6254271561b0",
+    "name": "Niue",
+    "cca2": "NU",
+    "cca3": "NIU",
+    "ccn3": 570,
+    "region": "Oceania",
+    "latitude": -19.03333333,
+    "longitude": -169.86666666,
+    "languages": [
+      {
+        "id": 4088,
+        "name": "Niuean",
+        "isoCode": "niu"
+      },
+      {
+        "id": 4090,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "0ab8e546-a7c8-4d4e-ad36-701a0d0ab865",
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "5b023527-d802-4870-bcf2-a2f74dd8b42d",
+    "name": "Antigua and Barbuda",
+    "cca2": "AG",
+    "cca3": "ATG",
+    "ccn3": 28,
+    "region": "Americas",
+    "latitude": 17.05,
+    "longitude": -61.8,
+    "languages": [
+      {
+        "id": 3813,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "0e3060d6-0ee4-42d5-8193-694a7fca9fa8",
+        "code": "XCD",
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "f988d516-ac5d-439c-9145-7c73a855c683",
+    "name": "Lebanese Republic",
+    "cca2": "LB",
+    "cca3": "LBN",
+    "ccn3": 422,
+    "region": "Asia",
+    "latitude": 33.83333333,
+    "longitude": 35.83333333,
+    "languages": [
+      {
+        "id": 3823,
+        "name": "Arabic",
+        "isoCode": "ara"
+      },
+      {
+        "id": 3836,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "41746e5f-668d-48e0-94d3-3038bda97599",
+        "code": "LBP",
+        "name": "Lebanese pound",
+        "symbol": "ل.ل"
+      }
+    ]
+  },
+  {
+    "id": "54b26f89-3666-4926-9215-37d725003a74",
+    "name": "Ukraine",
+    "cca2": "UA",
+    "cca3": "UKR",
+    "ccn3": 804,
+    "region": "Europe",
+    "latitude": 49,
+    "longitude": 32,
+    "languages": [
+      {
+        "id": 3847,
+        "name": "Ukrainian",
+        "isoCode": "ukr"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "693608d4-6f68-4378-98ad-2c04655c1763",
+        "code": "UAH",
+        "name": "Ukrainian hryvnia",
+        "symbol": "₴"
+      }
+    ]
+  },
+  {
+    "id": "0c0bf049-7b9c-450d-bd21-ee13743d3995",
+    "name": "Republic of South Africa",
+    "cca2": "ZA",
+    "cca3": "ZAF",
+    "ccn3": 710,
+    "region": "Africa",
+    "latitude": -29,
+    "longitude": 24,
+    "languages": [
+      {
+        "id": 3850,
+        "name": "Southern Ndebele",
+        "isoCode": "nbl"
+      },
+      {
+        "id": 3852,
+        "name": "Afrikaans",
+        "isoCode": "afr"
+      },
+      {
+        "id": 3853,
+        "name": "Venda",
+        "isoCode": "ven"
+      },
+      {
+        "id": 3854,
+        "name": "Northern Sotho",
+        "isoCode": "nso"
+      },
+      {
+        "id": 3857,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3858,
+        "name": "Swazi",
+        "isoCode": "ssw"
+      },
+      {
+        "id": 3862,
+        "name": "Zulu",
+        "isoCode": "zul"
+      },
+      {
+        "id": 3863,
+        "name": "Tsonga",
+        "isoCode": "tso"
+      },
+      {
+        "id": 3864,
+        "name": "Xhosa",
+        "isoCode": "xho"
+      },
+      {
+        "id": 3865,
+        "name": "Tswana",
+        "isoCode": "tsn"
+      },
+      {
+        "id": 3866,
+        "name": "Southern Sotho",
+        "isoCode": "sot"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "18f0b654-4534-4a6e-b095-7c03440cf739",
+        "code": "ZAR",
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    ]
+  },
+  {
+    "id": "b1f13c84-5364-49d3-9f9b-4da656c10c57",
+    "name": "Republic of Liberia",
+    "cca2": "LR",
+    "cca3": "LBR",
+    "ccn3": 430,
+    "region": "Africa",
+    "latitude": 6.5,
+    "longitude": -9.5,
+    "languages": [
+      {
+        "id": 3886,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "cb9dadd6-492a-4daf-98db-9d9dcadaea30",
+        "code": "LRD",
+        "name": "Liberian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "c0b63047-b0f8-4bba-8662-d6227f900928",
+    "name": "Hungary",
+    "cca2": "HU",
+    "cca3": "HUN",
+    "ccn3": 348,
+    "region": "Europe",
+    "latitude": 47,
+    "longitude": 20,
+    "languages": [
+      {
+        "id": 3896,
+        "name": "Hungarian",
+        "isoCode": "hun"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "7115bc97-5fb9-4432-8e31-230de3969845",
+        "code": "HUF",
+        "name": "Hungarian forint",
+        "symbol": "Ft"
+      }
+    ]
+  },
+  {
+    "id": "10216a66-47bd-4e43-a0b6-acb5eb368736",
+    "name": "Japan",
+    "cca2": "JP",
+    "cca3": "JPN",
+    "ccn3": 392,
+    "region": "Asia",
+    "latitude": 36,
+    "longitude": 138,
+    "languages": [
+      {
+        "id": 3910,
+        "name": "Japanese",
+        "isoCode": "jpn"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "403b5d0b-9f2c-4c5e-9a8b-54f6d6644567",
+        "code": "JPY",
+        "name": "Japanese yen",
+        "symbol": "¥"
+      }
+    ]
+  },
+  {
+    "id": "6dcde4ca-3ff2-47dd-b606-afbfd6f0940d",
+    "name": "Republic of Cyprus",
+    "cca2": "CY",
+    "cca3": "CYP",
+    "ccn3": 196,
+    "region": "Europe",
+    "latitude": 35,
+    "longitude": 33,
+    "languages": [
+      {
+        "id": 3924,
+        "name": "Turkish",
+        "isoCode": "tur"
+      },
+      {
+        "id": 3928,
+        "name": "Greek",
+        "isoCode": "ell"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "b9d5a8b1-c492-4a47-8d4e-73cc33ae5d0a",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "4370ad68-12af-42cc-a147-614d37f0bf50",
+    "name": "Republic of South Sudan",
+    "cca2": "SS",
+    "cca3": "SSD",
+    "ccn3": 728,
+    "region": "Africa",
+    "latitude": 7,
+    "longitude": 30,
+    "languages": [
+      {
+        "id": 3936,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "dfda03d0-b9d5-411c-8e2c-d59d4f76ae5b",
+        "code": "SSP",
+        "name": "South Sudanese pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "id": "b4912904-0ffd-4678-8e0a-440d053bf3ea",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "cca2": "SH",
+    "cca3": "SHN",
+    "ccn3": 654,
+    "region": "Africa",
+    "latitude": -15.95,
+    "longitude": -5.72,
+    "languages": [
+      {
+        "id": 3971,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "17be4c8a-37c5-45d5-b15f-d7fe9be1cde6",
+        "code": "SHP",
+        "name": "Saint Helena pound",
+        "symbol": "£"
+      },
+      {
+        "id": "661bd31b-671a-4287-8954-732e5da174c3",
+        "code": "GBP",
+        "name": "Pound sterling",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "id": "4cbba7f4-1ef7-4d25-bc40-2e505ef2bfe2",
+    "name": "Grenada",
+    "cca2": "GD",
+    "cca3": "GRD",
+    "ccn3": 308,
+    "region": "Americas",
+    "latitude": 12.11666666,
+    "longitude": -61.66666666,
+    "languages": [
+      {
+        "id": 3956,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "4ec0ed30-9854-4b04-a6f3-d72386d25390",
+        "code": "XCD",
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "a516e1d9-45c1-467c-9e7f-b99980acec3d",
+    "name": "Republic of Slovenia",
+    "cca2": "SI",
+    "cca3": "SVN",
+    "ccn3": 705,
+    "region": "Europe",
+    "latitude": 46.11666666,
+    "longitude": 14.81666666,
+    "languages": [
+      {
+        "id": 3973,
+        "name": "Slovene",
+        "isoCode": "slv"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "feb5d924-6764-4ba0-bcb3-0e67a0449f98",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "3f9c97f0-96a3-465b-b8f6-0673ad793a6b",
+    "name": "Republic of Namibia",
+    "cca2": "NA",
+    "cca3": "NAM",
+    "ccn3": 516,
+    "region": "Africa",
+    "latitude": -22,
+    "longitude": 17,
+    "languages": [
+      {
+        "id": 3998,
+        "name": "Tswana",
+        "isoCode": "tsn"
+      },
+      {
+        "id": 3990,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3996,
+        "name": "German",
+        "isoCode": "deu"
+      },
+      {
+        "id": 3999,
+        "name": "Khoekhoe",
+        "isoCode": "hgm"
+      },
+      {
+        "id": 3991,
+        "name": "Herero",
+        "isoCode": "her"
+      },
+      {
+        "id": 3992,
+        "name": "Lozi",
+        "isoCode": "loz"
+      },
+      {
+        "id": 3997,
+        "name": "Afrikaans",
+        "isoCode": "afr"
+      },
+      {
+        "id": 4007,
+        "name": "Ndonga",
+        "isoCode": "ndo"
+      },
+      {
+        "id": 4005,
+        "name": "Kwangali",
+        "isoCode": "kwn"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "e0c4984a-2e7d-4357-bbe6-4d22daaf3d32",
+        "code": "ZAR",
+        "name": "South African rand",
+        "symbol": "R"
+      },
+      {
+        "id": "fc67dfb7-0b78-46cd-9686-75449baf43ba",
+        "code": "NAD",
+        "name": "Namibian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "cb145209-3324-49c9-9fe5-d3e874682eda",
+    "name": "Commonwealth of Puerto Rico",
+    "cca2": "PR",
+    "cca3": "PRI",
+    "ccn3": 630,
+    "region": "Americas",
+    "latitude": 18.25,
+    "longitude": -66.5,
+    "languages": [
+      {
+        "id": 4016,
+        "name": "Spanish",
+        "isoCode": "spa"
+      },
+      {
+        "id": 4020,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "f336d228-9fe3-44a7-b80c-2ba562dc6fcb",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "ece999c4-676e-4ac6-8d45-f4c3d2d1c7fa",
+    "name": "Sahrawi Arab Democratic Republic",
+    "cca2": "EH",
+    "cca3": "ESH",
+    "ccn3": 732,
+    "region": "Africa",
+    "latitude": 24.5,
+    "longitude": -13,
+    "languages": [
+      {
+        "id": 4036,
+        "name": "Hassaniya",
+        "isoCode": "mey"
+      },
+      {
+        "id": 4035,
+        "name": "Spanish",
+        "isoCode": "spa"
+      },
+      {
+        "id": 4038,
+        "name": "Berber",
+        "isoCode": "ber"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "ed1715b4-b33c-4962-8583-aff40feb007a",
+        "code": "MAD",
+        "name": "Moroccan dirham",
+        "symbol": "DH"
+      },
+      {
+        "id": "98d651d6-6883-4b2c-ab84-768596ceb312",
+        "code": "MRU",
+        "name": "Mauritanian ouguiya",
+        "symbol": "UM"
+      },
+      {
+        "id": "fe8a8819-4f74-4047-bad9-7b27b25b8668",
+        "code": "DZD",
+        "name": "Algerian dinar",
+        "symbol": "دج"
+      }
+    ]
+  },
+  {
+    "id": "e02025c7-ceb1-4e3b-8980-c78cf1cfcb39",
+    "name": "Bailiwick of Jersey",
+    "cca2": "JE",
+    "cca3": "JEY",
+    "ccn3": 832,
+    "region": "Europe",
+    "latitude": 49.25,
+    "longitude": -2.16666666,
+    "languages": [
+      {
+        "id": 4068,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 4061,
+        "name": "French",
+        "isoCode": "fra"
+      },
+      {
+        "id": 4063,
+        "name": "Jèrriais",
+        "isoCode": "nrf"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "0bf10c39-03d8-4ff4-bb24-19d23c5573fc",
+        "code": "JEP",
+        "name": "Jersey pound",
+        "symbol": "£"
+      },
+      {
+        "id": "6a8b3507-d867-40e9-924b-cf0aae775960",
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "id": "a1d45c02-8900-421b-a425-9ea8e722969e",
+    "name": "Plurinational State of Bolivia",
+    "cca2": "BO",
+    "cca3": "BOL",
+    "ccn3": 68,
+    "region": "Americas",
+    "latitude": -17,
+    "longitude": -65,
+    "languages": [
+      {
+        "id": 4078,
+        "name": "Aymara",
+        "isoCode": "aym"
+      },
+      {
+        "id": 4082,
+        "name": "Quechua",
+        "isoCode": "que"
+      },
+      {
+        "id": 4079,
+        "name": "Spanish",
+        "isoCode": "spa"
+      },
+      {
+        "id": 4080,
+        "name": "Guaraní",
+        "isoCode": "grn"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "b1565c32-c5f2-4be6-87d3-60197060ccc7",
+        "code": "BOB",
+        "name": "Bolivian boliviano",
+        "symbol": "Bs."
+      }
+    ]
+  },
+  {
+    "id": "121bfb04-15a8-4de8-b239-1b95bcdea88e",
+    "name": "Jamaica",
+    "cca2": "JM",
+    "cca3": "JAM",
+    "ccn3": 388,
+    "region": "Americas",
+    "latitude": 18.25,
+    "longitude": -77.5,
+    "languages": [
+      {
+        "id": 4103,
+        "name": "Jamaican Patois",
+        "isoCode": "jam"
+      },
+      {
+        "id": 4099,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "5682e04f-4319-4850-b6a1-5d84a48460e1",
+        "code": "JMD",
+        "name": "Jamaican dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "5cefbe85-d048-49d4-8656-06c0da64197c",
+    "name": "Bolivarian Republic of Venezuela",
+    "cca2": "VE",
+    "cca3": "VEN",
+    "ccn3": 862,
+    "region": "Americas",
+    "latitude": 8,
+    "longitude": -66,
+    "languages": [
+      {
+        "id": 3801,
+        "name": "Spanish",
+        "isoCode": "spa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "96630494-a35d-4719-84e4-8a9e8d5ff614",
+        "code": "VES",
+        "name": "Venezuelan bolívar soberano",
+        "symbol": "Bs.S."
+      }
+    ]
+  },
+  {
+    "id": "91540fc9-d768-48e1-aab2-3e2e5a0a3188",
+    "name": "People's Democratic Republic of Algeria",
+    "cca2": "DZ",
+    "cca3": "DZA",
+    "ccn3": 12,
+    "region": "Africa",
+    "latitude": 28,
+    "longitude": 3,
+    "languages": [
+      {
+        "id": 3809,
+        "name": "Arabic",
+        "isoCode": "ara"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "dd08e79f-56bb-466c-bc36-5ae03bf687fd",
+        "code": "DZD",
+        "name": "Algerian dinar",
+        "symbol": "د.ج"
+      }
+    ]
+  },
+  {
+    "id": "7b8e254f-e99c-40a8-90ac-eb133807989c",
+    "name": "Åland Islands",
+    "cca2": "AX",
+    "cca3": "ALA",
+    "ccn3": 248,
+    "region": "Europe",
+    "latitude": 60.116667,
+    "longitude": 19.9,
+    "languages": [
+      {
+        "id": 3821,
+        "name": "Swedish",
+        "isoCode": "swe"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "437cf5f7-6544-439a-aef9-a5d8cf944769",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "b554d035-e0ff-49aa-8633-03ebfad9cf75",
+    "name": "Saint Martin",
+    "cca2": "MF",
+    "cca3": "MAF",
+    "ccn3": 663,
+    "region": "Americas",
+    "latitude": 18.0708,
+    "longitude": 63.0501,
+    "languages": [
+      {
+        "id": 3844,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "1bf24f79-c710-4706-8f5d-7236e024de10",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "80fcbb70-f3cb-498d-bee8-f2d499a6ad29",
+    "name": "United Mexican States",
+    "cca2": "MX",
+    "cca3": "MEX",
+    "ccn3": 484,
+    "region": "Americas",
+    "latitude": 23,
+    "longitude": -102,
+    "languages": [
+      {
+        "id": 3846,
+        "name": "Spanish",
+        "isoCode": "spa"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "e86f2ef4-0e3e-4eee-b18f-f1b593bac540",
+        "code": "MXN",
+        "name": "Mexican peso",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "706a3e6d-d75b-4d15-af92-46a91595abeb",
+    "name": "Socialist Republic of Vietnam",
+    "cca2": "VN",
+    "cca3": "VNM",
+    "ccn3": 704,
+    "region": "Asia",
+    "latitude": 16.16666666,
+    "longitude": 107.83333333,
+    "languages": [
+      {
+        "id": 3884,
+        "name": "Vietnamese",
+        "isoCode": "vie"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "416b3a39-562f-4087-bc0e-812b83df25fd",
+        "code": "VND",
+        "name": "Vietnamese đồng",
+        "symbol": "₫"
+      }
+    ]
+  },
+  {
+    "id": "0ce244f4-a6b1-457a-b5bd-852139a76f70",
+    "name": "Solomon Islands",
+    "cca2": "SB",
+    "cca3": "SLB",
+    "ccn3": 90,
+    "region": "Oceania",
+    "latitude": -8,
+    "longitude": 159,
+    "languages": [
+      {
+        "id": 3887,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "313ac83c-7a91-4fd3-ba48-631f080b4210",
+        "code": "SBD",
+        "name": "Solomon Islands dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "0ef86710-5867-4268-8c42-d7c447c53c81",
+    "name": "State of Eritrea",
+    "cca2": "ER",
+    "cca3": "ERI",
+    "ccn3": 232,
+    "region": "Africa",
+    "latitude": 15,
+    "longitude": 39,
+    "languages": [
+      {
+        "id": 3898,
+        "name": "Tigrinya",
+        "isoCode": "tir"
+      },
+      {
+        "id": 3905,
+        "name": "English",
+        "isoCode": "eng"
+      },
+      {
+        "id": 3901,
+        "name": "Arabic",
+        "isoCode": "ara"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "d759bd1b-34ba-48f8-88fc-8099c22927c1",
+        "code": "ERN",
+        "name": "Eritrean nakfa",
+        "symbol": "Nfk"
+      }
+    ]
+  },
+  {
+    "id": "84bc6475-e92c-4cba-a454-fdd250cb9ab1",
+    "name": "Republic of the Maldives",
+    "cca2": "MV",
+    "cca3": "MDV",
+    "ccn3": 462,
+    "region": "Asia",
+    "latitude": 3.25,
+    "longitude": 73,
+    "languages": [
+      {
+        "id": 3921,
+        "name": "Maldivian",
+        "isoCode": "div"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "f1d7369e-b8fd-484e-9eab-1cda2629b7cb",
+        "code": "MVR",
+        "name": "Maldivian rufiyaa",
+        "symbol": ".ރ"
+      }
+    ]
+  },
+  {
+    "id": "e8d2c94e-c2d2-48c9-8ac0-8acc4f0ac2d2",
+    "name": "Kingdom of Sweden",
+    "cca2": "SE",
+    "cca3": "SWE",
+    "ccn3": 752,
+    "region": "Europe",
+    "latitude": 62,
+    "longitude": 15,
+    "languages": [
+      {
+        "id": 3929,
+        "name": "Swedish",
+        "isoCode": "swe"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "e1a22503-fa52-4df4-aec8-b23245c7ed31",
+        "code": "SEK",
+        "name": "Swedish krona",
+        "symbol": "kr"
+      }
+    ]
+  },
+  {
+    "id": "53cae179-0276-4b26-8321-1df2237507b9",
+    "name": "Republic of Armenia",
+    "cca2": "AM",
+    "cca3": "ARM",
+    "ccn3": 51,
+    "region": "Asia",
+    "latitude": 40,
+    "longitude": 45,
+    "languages": [
+      {
+        "id": 3945,
+        "name": "Armenian",
+        "isoCode": "hye"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "a9fc4e04-c205-485c-a9b8-3a8c38bdf40a",
+        "code": "AMD",
+        "name": "Armenian dram",
+        "symbol": "֏"
+      }
+    ]
+  },
+  {
+    "id": "44694480-256e-4e56-ab70-c67e92213e6f",
+    "name": "Republic of Uganda",
+    "cca2": "UG",
+    "cca3": "UGA",
+    "ccn3": 800,
+    "region": "Africa",
+    "latitude": 1,
+    "longitude": 32,
+    "languages": [
+      {
+        "id": 3968,
+        "name": "Swahili",
+        "isoCode": "swa"
+      },
+      {
+        "id": 3955,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "e2519e6e-1897-4d2f-85cb-870322f065e3",
+        "code": "UGX",
+        "name": "Ugandan shilling",
+        "symbol": "Sh"
+      }
+    ]
+  },
+  {
+    "id": "9843ee17-40c4-40b1-b516-29f8f9f49bda",
+    "name": "Virgin Islands of the United States",
+    "cca2": "VI",
+    "cca3": "VIR",
+    "ccn3": 850,
+    "region": "Americas",
+    "latitude": 18.35,
+    "longitude": -64.933333,
+    "languages": [
+      {
+        "id": 3962,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "7423675f-e378-4fe3-acbb-63ffa8e1e79f",
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "de1bc8ca-55d6-41bf-949e-fbe7a8054c93",
+    "name": "Republic of Haiti",
+    "cca2": "HT",
+    "cca3": "HTI",
+    "ccn3": 332,
+    "region": "Americas",
+    "latitude": 19,
+    "longitude": -72.41666666,
+    "languages": [
+      {
+        "id": 3979,
+        "name": "Haitian Creole",
+        "isoCode": "hat"
+      },
+      {
+        "id": 3986,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "ca11218c-a52e-4a58-985f-859b1df20804",
+        "code": "HTG",
+        "name": "Haitian gourde",
+        "symbol": "G"
+      }
+    ]
+  },
+  {
+    "id": "f7514e91-dbb7-4181-9041-850b1809f426",
+    "name": "Federative Republic of Brazil",
+    "cca2": "BR",
+    "cca3": "BRA",
+    "ccn3": 76,
+    "region": "Americas",
+    "latitude": -10,
+    "longitude": -55,
+    "languages": [
+      {
+        "id": 4002,
+        "name": "Portuguese",
+        "isoCode": "por"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "6e36a938-24b7-4096-a9a9-85e09347884a",
+        "code": "BRL",
+        "name": "Brazilian real",
+        "symbol": "R$"
+      }
+    ]
+  },
+  {
+    "id": "4c66350c-e6e9-4387-a41d-0121d17e4bd1",
+    "name": "Gabonese Republic",
+    "cca2": "GA",
+    "cca3": "GAB",
+    "ccn3": 266,
+    "region": "Africa",
+    "latitude": -1,
+    "longitude": 11.75,
+    "languages": [
+      {
+        "id": 4013,
+        "name": "French",
+        "isoCode": "fra"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "95172135-0137-4f34-b02d-b40a73b2f38f",
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "id": "db3e16a4-1490-403c-a676-b0afda4ddfa3",
+    "name": "Lao People's Democratic Republic",
+    "cca2": "LA",
+    "cca3": "LAO",
+    "ccn3": 418,
+    "region": "Asia",
+    "latitude": 18,
+    "longitude": 105,
+    "languages": [
+      {
+        "id": 4027,
+        "name": "Lao",
+        "isoCode": "lao"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "74a914d0-6b3b-4db3-b11a-167ea655c3ff",
+        "code": "LAK",
+        "name": "Lao kip",
+        "symbol": "₭"
+      }
+    ]
+  },
+  {
+    "id": "fe89a21f-d2e0-4fdd-9af0-b40447780a79",
+    "name": "Republic of Poland",
+    "cca2": "PL",
+    "cca3": "POL",
+    "ccn3": 616,
+    "region": "Europe",
+    "latitude": 52,
+    "longitude": 20,
+    "languages": [
+      {
+        "id": 4043,
+        "name": "Polish",
+        "isoCode": "pol"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "4a2143b7-9f56-4e54-97ef-8a534bcb1ded",
+        "code": "PLN",
+        "name": "Polish złoty",
+        "symbol": "zł"
+      }
+    ]
+  },
+  {
+    "id": "21f628fc-23dd-4d38-a827-2947047b490f",
+    "name": "Republic of Angola",
+    "cca2": "AO",
+    "cca3": "AGO",
+    "ccn3": 24,
+    "region": "Africa",
+    "latitude": -12.5,
+    "longitude": 18.5,
+    "languages": [
+      {
+        "id": 4059,
+        "name": "Portuguese",
+        "isoCode": "por"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "6e010a8b-4db6-4d1a-a7ee-1af3f6d32ff7",
+        "code": "AOA",
+        "name": "Angolan kwanza",
+        "symbol": "Kz"
+      }
+    ]
+  },
+  {
+    "id": "ae5ea212-b429-490d-93d0-39daafd8d9f4",
+    "name": "Territory of Norfolk Island",
+    "cca2": "NF",
+    "cca3": "NFK",
+    "ccn3": 574,
+    "region": "Oceania",
+    "latitude": -29.03333333,
+    "longitude": 167.95,
+    "languages": [
+      {
+        "id": 4056,
+        "name": "Norfuk",
+        "isoCode": "pih"
+      },
+      {
+        "id": 4057,
+        "name": "English",
+        "isoCode": "eng"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "9105ca8f-3992-444d-9c27-ee72fa173d32",
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "id": "20afd9b3-1ae7-4b7c-bb8a-4734fe601792",
+    "name": "Republic of Estonia",
+    "cca2": "EE",
+    "cca3": "EST",
+    "ccn3": 233,
+    "region": "Europe",
+    "latitude": 59,
+    "longitude": 26,
+    "languages": [
+      {
+        "id": 4081,
+        "name": "Estonian",
+        "isoCode": "est"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "a8db1754-64cb-4d9a-892a-12aba8abe1e9",
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "id": "ef85404c-bdbe-4529-bd9b-9810b38e60b0",
+    "name": "Republic of Paraguay",
+    "cca2": "PY",
+    "cca3": "PRY",
+    "ccn3": 600,
+    "region": "Americas",
+    "latitude": -23,
+    "longitude": -58,
+    "languages": [
+      {
+        "id": 4102,
+        "name": "Spanish",
+        "isoCode": "spa"
+      },
+      {
+        "id": 4101,
+        "name": "Guaraní",
+        "isoCode": "grn"
+      }
+    ],
+    "currencies": [
+      {
+        "id": "60c4af06-f58c-4d7f-9a41-fd2ab8b12430",
+        "code": "PYG",
+        "name": "Paraguayan guaraní",
+        "symbol": "₲"
+      }
+    ]
+  }
+]

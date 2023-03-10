@@ -45,12 +45,28 @@ async function groupCountriesByRegion(req, res, next) {
 }
 
 
-
-
 async function groupCountriesByLanguage(req, res, next) {
     try {
         const data = await groupCountriesByLanguageService();
         res.status(200).send(data);
+    } catch (error) {
+        next(DEVMODE ? error.message : 'Ops, Something wrong happened :( ');
+    }
+}
+
+const fs = require('fs');
+async function saveCountriesToJSON(req, res, next) {
+    try {
+        const countries = await getCountriesService(apiUrl);
+        const data = JSON.stringify(countries, null, 2);
+
+        fs.writeFile('./assets/countries.json', data, (err) => {
+            if (err) return next(DEVMODE ? err.message : 'Ops, Something wrong happened :( ');
+            res.status(200).send({
+                status: 200,
+                message: 'Data has been saved in a JSON file successfully',
+            });
+        });
     } catch (error) {
         next(DEVMODE ? error.message : 'Ops, Something wrong happened :( ');
     }
@@ -61,4 +77,5 @@ module.exports = {
     getCountryCurrenciesByCCA2,
     groupCountriesByRegion,
     groupCountriesByLanguage,
+    saveCountriesToJSON,
 };
