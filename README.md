@@ -22,13 +22,13 @@ This project implements an API for countries using Node.js, Express, and Prisma 
 - Migrate the database schema: `npx prisma migrate dev`
 
 #### Running the server
-- To start the server, run npm start or yarn start. By default, the server runs on port 3030.
+- To start the server, run `node index.js` or `yarn index.js` By default, the server runs on port 3030.
 
 #### Endpoints
 
 1. **Get all countries**   
 
-    `GET /countries`
+    `GET api/countries`
 
     Returns a list of all countries, with the following fields:
 
@@ -47,14 +47,14 @@ This project implements an API for countries using Node.js, Express, and Prisma 
         - name: String
         - cca2: string
         - cca3: string
-        - ccn3: string  
+        - ccn3: Int  
 
         Search for countries by name or code (CCA2/CCA3/CCN3)
 
 
 2. **Get country currencies by CCA2**  
 
-    `GET /countries/:cca2/currencies`
+    `GET api/countries/:cca2/currencies`
 
     Returns a list of currencies used in the specified country, with the following fields:
 
@@ -65,7 +65,7 @@ This project implements an API for countries using Node.js, Express, and Prisma 
 
     3.1. **By region**
 
-    `GET /countries/grouped/by-region`
+    `GET api/countries/grouped/by-region`
 
     Returns a list of countries grouped by region, with the following fields:
 
@@ -74,7 +74,7 @@ This project implements an API for countries using Node.js, Express, and Prisma 
 
     3.2. **By language**
 
-    `GET /countries/grouped/by-language`
+    `GET api/countries/grouped/by-language`
 
     Returns a list of countries grouped by language, with the following fields:
 
@@ -83,14 +83,14 @@ This project implements an API for countries using Node.js, Express, and Prisma 
 
 4. **Download countries.json**
 
-    `GET /download/countries.json`
+    `GET api/download/countries.json`
 
     - Downloads a JSON file containing all countries data.
     - This endpoint is only accessible to users with admin privileges.
     - To access this endpoint, include the X-ADMIN header in the request with a value of 1.
 
 
-# Note: API provided as a binary code !!
+# Note: API is provided as a binary code !!
 - In this project, I needed to access an API provided as a binary code.
 - The binary code is saved in the .env.sample file, and it represents the API URL in a more secure format.
 - To access the API, I used the `binaryToUrl` function provided in this repository to convert the binary code to the actual API URL.  
