@@ -2,63 +2,35 @@
 
 const Joi = require('joi');
 
-const userSchema = Joi.object({
-    username: Joi.string()
+
+const querySchema = Joi.object({
+
+
+    name: Joi.string()
         .alphanum()
-        .min(3)
-        .max(30)
-        .required(),
+        .min(2)
+        .max(56),
 
-    password: Joi.string()
-        .pattern(new RegExp('^[a-zA-Z0-9]{3,30}$'))
-        .required(),
-});
-
-const countryNameSchema = Joi.object({
-    thing1string: Joi.string()
+    // CCA2(country code alpha - 2)
+    cca2: Joi.string()
         .alphanum()
-        .min(3)
-        .max(30)
-        .required(),
+        .uppercase()
+        .length(2),
 
-    thing1number: Joi.number()
+    // CCA3(country code alpha - 3)
+    cca3: Joi.string()
+        .alphanum()
+        .uppercase()
+        .length(3),
+
+    // CCN3(country codes 3 digit numeric)
+    ccn3: Joi.number()
         .integer()
-        .min(3)
-        .max(30)
-        .required(),
+        .max(999),
+
 });
 
-const thing2Schema = Joi.object({
-    thing2string: Joi.string()
-        .alphanum()
-        .min(3)
-        .max(30)
-        .required(),
-
-    thing2number: Joi.number()
-        .integer()
-        .min(3)
-        .max(30)
-        .required(),
-});
-
-const thing3Schema = Joi.object({
-    thing3string: Joi.string()
-        .alphanum()
-        .min(3)
-        .max(30)
-        .required(),
-
-    thing3number: Joi.number()
-        .integer()
-        .min(3)
-        .max(30)
-        .required(),
-});
 
 module.exports = {
-    userSchema,
-    countryNameSchema,
-    thing2Schema,
-    thing3Schema,
+    querySchema,
 };
