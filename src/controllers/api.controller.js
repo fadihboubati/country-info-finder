@@ -14,6 +14,7 @@ async function getCountries(req, res, next) {
         const data = await getCountriesService(apiUrl, name, cca2, cca3, ccn3);
         res.status(200).send(data);
     } catch (error) {
+        res.statusCode = 500;
         next(DEVMODE ? error.message : 'Ops, Something wrong happened :( ');
     }
 }
@@ -24,6 +25,7 @@ async function getCountryCurrenciesByCCA2(req, res, next) {
         const data = await getCountryCurrenciesByCCA2Service(cca2);
         res.status(200).send(data);
     } catch (error) {
+        res.statusCode = 500;
         next(DEVMODE ? error.message : 'Ops, Something wrong happened :( ');
     }
 }
@@ -33,6 +35,7 @@ async function groupCountriesByRegion(req, res, next) {
         const data = await groupCountriesByRegionService();
         res.status(200).send(data);
     } catch (error) {
+        res.statusCode = 500;
         next(DEVMODE ? error.message : 'Ops, Something wrong happened :( ');
     }
 }
@@ -42,6 +45,7 @@ async function groupCountriesByLanguage(req, res, next) {
         const data = await groupCountriesByLanguageService();
         res.status(200).send(data);
     } catch (error) {
+        res.statusCode = 500;
         next(DEVMODE ? error.message : 'Ops, Something wrong happened :( ');
     }
 }
@@ -60,6 +64,7 @@ async function saveCountriesToJSON(req, res, next) {
             });
         });
     } catch (error) {
+        res.statusCode = 500;
         next(DEVMODE ? error.message : 'Ops, Something wrong happened :( ');
     }
 }
@@ -76,6 +81,7 @@ function downloadJsonFile(req, res, next) {
         fileStream.pipe(res);
 
     } catch (error) {
+        res.statusCode = 500;
         next(DEVMODE ? error.message : 'Ops, Something wrong happened :( ');
     }
 }

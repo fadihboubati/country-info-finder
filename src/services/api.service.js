@@ -11,36 +11,35 @@ const DEVMODE = process.env.DEVMODE;
 
 async function getCountriesService(apiUrl, officialName, cca2, cca3, ccn3) {
     try {
-
         // Only fetch from API if there are no countries in the database
         // and Save the result in the Database
         const countriesCount = await prisma.country.count();
         if (countriesCount === 0) {
             const res = await axios.get(apiUrl);
             const data = res.data;
-            await data.forEach(async c => {
-                let name = c.name.official;
-                let cca2 = c.cca2;
-                let cca3 = c.cca3;
-                let ccn3 = c.ccn3;
+            await data.forEach(async country => {
+                let name = country.name.official;
+                let cca2 = country.cca2;
+                let cca3 = country.cca3;
+                let ccn3 = country.ccn3;
                 if (isNaN(ccn3)) {
                     ccn3 = 0;
                 } else {
                     ccn3 = parseInt(ccn3);
                 }
-                let region = c.region;
-                let latitude = c.latlng[0];
-                let longitude = c.latlng[1];
+                let region = country.region;
+                let latitude = country.latlng[0];
+                let longitude = country.latlng[1];
+
                 let languages = [];
-                for (const key in c.languages) {
-                    languages.push({ name: c.languages[key], isoCode: key });
+                for (const key in country.languages) {
+                    languages.push({ name: country.languages[key], isoCode: key });
                 }
 
                 let currencies = [];
-                for (const key in c.currencies) {
-                    currencies.push({ code: key, name: c.currencies[key]['name'], symbol: c.currencies[key]['symbol'] });
+                for (const key in country.currencies) {
+                    currencies.push({ code: key, name: country.currencies[key]['name'], symbol: country.currencies[key]['symbol'] });
                 }
-
 
                 const createdLanguages = await Promise.all(
                     languages.map(async (language) => {
@@ -54,7 +53,7 @@ async function getCountriesService(apiUrl, officialName, cca2, cca3, ccn3) {
                     }),
                 );
 
-                const country = {
+                const countryInfo = {
                     name,
                     cca2,
                     cca3,
@@ -69,7 +68,7 @@ async function getCountriesService(apiUrl, officialName, cca2, cca3, ccn3) {
                         connect: createdCurrencies.map((currency) => ({ id: currency.id })),
                     },
                 };
-                await prisma.country.create({ data: country });
+                await prisma.country.create({ data: countryInfo });
             });
         }
 
@@ -79,10 +78,13 @@ async function getCountriesService(apiUrl, officialName, cca2, cca3, ccn3) {
         if (officialName) {
             where = { name: { contains: officialName } };
         } else if (cca2) {
+            cca2 = cca2.toUpperCase();
             where = { cca2 };
         } else if (cca3) {
+            cca3 = cca3.toUpperCase();
             where = { cca3 };
         } else if (ccn3) {
+            ccn3 = Number(ccn3);
             where = { ccn3 };
         }
 
@@ -102,6 +104,7 @@ async function getCountriesService(apiUrl, officialName, cca2, cca3, ccn3) {
 
 async function getCountryCurrenciesByCCA2Service(cca2) {
     try {
+        cca2 = cca2.toUpperCase();
         const singleCountry = await prisma.country.findFirst({
             where: {
                 cca2: cca2,
@@ -115,7 +118,6 @@ async function getCountryCurrenciesByCCA2Service(cca2) {
     } catch (error) {
         throw new Error(DEVMODE ? error.message : 'Ops, Something wrong happened :(');
     }
-
 }
 
 async function groupCountriesByRegionService() {
@@ -171,8 +173,6 @@ async function groupCountriesByLanguageService() {
         throw new Error(DEVMODE ? error.message : 'Ops, Something wrong happened :(');
     }
 }
-
-
 
 module.exports = {
     getCountriesService,

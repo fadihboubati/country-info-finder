@@ -43,6 +43,9 @@ This project implements an API for countries using Node.js, Express, and Prisma 
     + languages: Array of Language objects
     + currencies: Array of Currency objects
 
+
+    for the first request, will get the data from the api, and save it in the database  
+    for the next request, will get the data from the database
     - Query parameters
         - name: String
         - cca2: string
@@ -81,7 +84,13 @@ This project implements an API for countries using Node.js, Express, and Prisma 
     - language: String
     - countries: Array of Country objects
 
-4. **Download countries.json**
+4. **Save at countries.json**
+
+    `GET api/countries/save`
+
+    - Store the response that is coming from the API URL inside "countries.json" file
+
+5. **Download countries.json**
 
     `GET api/countries/download-json`
 
