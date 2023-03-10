@@ -5,13 +5,15 @@ const DEVMODE = process.env.DEVMODE;
 module.exports = async (req, res, next) => {
 
     try {
-
-        let res = true;
-        if (res) {
-            next();
+        const isAdmin = req.headers['x-admin'] === '1';
+        if (!isAdmin) {
+            res.statusCode = 401;
+            next('Unauthorized');
             return;
         }
 
+        next();
+        return;
 
     } catch (error) {
         next(DEVMODE ? error.message : 'Ops, Something wrong happened :( ');

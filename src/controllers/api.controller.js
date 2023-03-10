@@ -72,10 +72,30 @@ async function saveCountriesToJSON(req, res, next) {
     }
 }
 
+
+function downloadJsonFile(req, res, next) {
+
+    try {
+        const filePath = './assets/countries.json';
+        const fileName = 'file.json';
+
+        res.setHeader('Content-disposition', 'attachment; filename=' + fileName);
+        res.setHeader('Content-Type', 'application/json');
+
+        const fileStream = fs.createReadStream(filePath);
+        fileStream.pipe(res);
+
+    } catch (error) {
+        next(DEVMODE ? error.message : 'Ops, Something wrong happened :( ');
+    }
+
+}
+
 module.exports = {
     getCountries,
     getCountryCurrenciesByCCA2,
     groupCountriesByRegion,
     groupCountriesByLanguage,
     saveCountriesToJSON,
+    downloadJsonFile,
 };
