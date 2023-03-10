@@ -83,7 +83,7 @@ This project implements an API for countries using Node.js, Express, and Prisma 
 
 4. **Download countries.json**
 
-    `GET api/download/countries.json`
+    `GET api/countries/download-json`
 
     - Downloads a JSON file containing all countries data.
     - This endpoint is only accessible to users with admin privileges.
