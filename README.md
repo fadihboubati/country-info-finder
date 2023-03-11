@@ -20,6 +20,7 @@ This project implements an API for countries using Node.js, Express, and Prisma 
 - Create a PostgreSQL database for the project
 - Copy the `.env.sample` file to `.env` and update the database connection details accordingly
 - Migrate the database schema: `npx prisma migrate dev`
+- Generate the Prisma client code: `npx prisma generate`
 
 #### Running the server
 - To start the server
