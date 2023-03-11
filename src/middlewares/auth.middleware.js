@@ -16,6 +16,7 @@ module.exports = async (req, res, next) => {
         return;
 
     } catch (error) {
+        res.statusCode = 500;
         next(DEVMODE ? error.message : 'Ops, Something wrong happened :( ');
     }
 
