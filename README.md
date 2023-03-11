@@ -52,7 +52,8 @@ This project implements an API for countries using Node.js, Express, and Prisma 
         - cca3: string
         - ccn3: Int  
 
-        Search for countries by name or code (CCA2/CCA3/CCN3)
+        Search for countries by name or code (CCA2/CCA3/CCN3).  
+        Only one query at a time can be used in searching!
 
 
 2. **Get country currencies by CCA2**  
