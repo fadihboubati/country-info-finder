@@ -103,7 +103,7 @@ This project implements an API for countries using Node.js, Express, and Prisma 
 # Note: API is provided as a binary code !!
 - In this project, I needed to access an API provided as a binary code.
 - The binary code is saved in the .env.sample file, and it represents the API URL in a more secure format.
-- To access the API, I used the `binaryToUrl` function provided in this repository to convert the binary code to the actual API URL.  
+- To access the API, I used the `binaryToUrl` function provided in this repository to convert the given binary code to the actual API URL.  
 - you can find the function here `src/utils/binaryToUrl.js`
 
 
