@@ -10,13 +10,7 @@ async function getHome(req, res, next) {
     try {
         const msg = 'Hello world';
         const greetingMessage = await getHelloWorldService(msg);
-
-        // res.status(200).sendFile(__dirname + '/../html/index.html');
-        // res.status(200).sendFile(__dirname + '/my.html');
-        // res.status(200).send('./src/view/index.html');
-
-        res.sendFile(path.join(__dirname, 'public', 'html', 'index.html'));
-        // res.redirect('/html/index.html'); // works
+        res.redirect('/html/index.html');
 
     } catch (error) {
         res.statusCode = 500;

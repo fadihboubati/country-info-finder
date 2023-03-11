@@ -5,6 +5,12 @@
     ],
     "routes": [
        { "src": "/(.*)", "dest": "/" }
-    ]
+    ],
+    "rewrites": [
+        {
+          "source": "/",
+          "destination": "/html/index.html"
+        }
+      ]
     
 }
