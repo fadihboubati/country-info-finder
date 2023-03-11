@@ -2,15 +2,16 @@
 
 require('dotenv').config();
 const DEVMODE = process.env.DEVMODE;
-const { getHelloWorldService } = require('../services/home.service');
+const { getHelloWorldService } = require('../../services/home.service');
 
 
-const path = require('path');
 async function getHome(req, res, next) {
     try {
         const msg = 'Hello world';
-        const greetingMessage = await getHelloWorldService(msg);
-        res.redirect('/html/index.html');
+        // const greetingMessage = await getHelloWorldService(msg);
+        // res.sendFile(__dirname, 'view/html/index.html');
+        res.status(200).sendFile(__dirname + '/view/html/index.html');
+        // res.redirect('/html/index.html');
 
     } catch (error) {
         res.statusCode = 500;

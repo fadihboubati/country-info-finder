@@ -4,7 +4,7 @@ const express = require('express');
 const router = express.Router();
 
 
-const { getHome } = require('../controllers/home.controller');
+const { getHome } = require('../controllers/home/home.controller');
 
 
 router.get('/', getHome);
