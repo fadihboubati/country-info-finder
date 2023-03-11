@@ -22,7 +22,15 @@ This project implements an API for countries using Node.js, Express, and Prisma 
 - Migrate the database schema: `npx prisma migrate dev`
 
 #### Running the server
-- To start the server, run `node index.js` or `yarn index.js` By default, the server runs on port 3030.
+- To start the server
+    - run `node index.js` or `yarn index.js`
+    - By default, the server runs on port 3030.
+    - Open your web browser and navigate to http://localhost:3030/
+
+- To start Prisma Studio
+    - run `npx prisma studio`
+    - Open your web browser and navigate to http://localhost:5555/
+    - Use the GUI to explore and manage the database
 
 #### Endpoints
 
